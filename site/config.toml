@@ -1,0 +1,9 @@
+baseURL = "https://stolpersteine-gangelt.de/"
+languageCode = "de-DE"
+title = "Stolpersteine Gangelt"
+theme = "stolpersteine"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  familie = "familie"
+  verlegestelle = "verlegestelle"
