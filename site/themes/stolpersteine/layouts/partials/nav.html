@@ -1,16 +1,17 @@
 <!-- Navbar -->
-<nav class="w3-top">
+<div class="w3-top">
     <div class="w3-bar w3-black w3-card">
-            <a href="/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Einleitung</a>
-            <a href="/familie" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Familien</a>
-            <a href="/menschen" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Menschen</a>
-            <a href="/geschichten" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Geschichten</a>
+        <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right"
+            href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i
+                class="fa fa-bars"></i></a>
+        <a href="/" class="w3-bar-item w3-button w3-padding-large">Einleitung</a>
+        <a href="/familien" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Familien</a>
+        <a href="/geschichten" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Geschichten</a>
     </div>
-</nav>
+</div>
 
 <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
-<nav id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-    {{ range where .Site.Pages "Params.displayinmenu" true -}}
-    <a href="{{ .Permalink }}" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">{{ .Title }}</a>
-    {{ end -}}              
-</nav>
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+    <a href="/familien" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Familien</a>
+    <a href="/geschichten" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Geschichten</a>
+</div>

@@ -6,7 +6,7 @@ verlegestelle: "Heinsberger Straße 2"
 familie: "Familie Josephs"
 Categories: ["Familien"]
 ---
-[Albert Josephs]({{< ref "albert_josephs.md" >}}) wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älterer Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, eine ältere Schwester, [Paula]({{< ref "paula_hartog.md" >}}), sowie einen jüngeren Bruder, [Hugo]({{< ref "hugo_josephs.md" >}}). 
+[Albert Josephs]({{< ref "albert_josephs.md" >}}) wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älteren Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, eine ältere Schwester, [Paula]({{< ref "paula_hartog.md" >}}), sowie einen jüngeren Bruder, [Hugo]({{< ref "hugo_josephs.md" >}}). 
 
 Nach dem Abschluss ihrer Textilkaufmannslehre in Aachen verkaufen Albert und Hugo eine Zeit lang mit dem Motorrad Strumpfwaren auf den Straßen in und um Gangelt.
 Gemeinsam eröffnen sie ein Textilwarengeschäft in der Sittarder Straße. 
@@ -46,4 +46,4 @@ Dort werden sie am 30. April 1942 ermordet.
 
 Emil Hartog wird im August 1942 in Auschwitz ermordet.
 
-Seiner Frau Paula und seiem Sohn Ernst gelingt die Flucht über Belgien und Frankreich in die USA. 
+Seiner Frau Paula und seinem Sohn Ernst gelingt die Flucht über Belgien und Frankreich in die USA. 
