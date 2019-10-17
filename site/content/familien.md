@@ -63,5 +63,5 @@ draft: false
 * [Max Rosendahl]({{< ref "/menschen/max_rosendahl.md" >}})
 * [Meta Rosendahl]({{< ref "/menschen/meta_rosendahl-voss.md" >}})
 
-## Sara Herz
+## Sara Hertz
 * [Sara Hertz]({{< ref "/menschen/sara_hertz.md" >}})
