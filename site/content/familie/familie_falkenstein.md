@@ -27,7 +27,8 @@ Die deutschen Besatzungstruppen schlossen ihr Einzelhandelsgeschäft und zwangen
 Als die junge Familie im August 1942, kurz vor dem ersten Geburtstag ihres Sohnes die Einberufung in ein Arbeitslager im Osten bekam, flüchteten Sie mit ihrem Sohn zu Verwandten von Mietje nach Amsterdam.
 Als einige Tage später, am 25. August 1942, die niederländische Polizei zur Wohnung der Falkensteins in Roermond fuhr, um diese zu verhaften, war die Wohnung leer. 
 
-Die niederländische Polizei erließ daraufhin Haftbefehl für die Familie Falkenstein. Da es für die junge Familie zu gefährlich wurde, brachten sie ihren Sohn Emil Hans bei dem kinderlosen Ehepaar Henk und Mimi Meinema in Amsterdam unter. 
+Die niederländische Polizei erließ daraufhin Haftbefehl für die Familie Falkenstein. 
+Da es für die junge Familie zu gefährlich wurde, brachten sie ihren Sohn Emil Hans bei dem kinderlosen Ehepaar Henk und Mimi Meinema in Amsterdam unter. 
 Um keine Aufmerksamkeit zu erregen, nannten die beiden das Kind Eddy, weil der Name Emil Hans zu Deutsch klang. 
 Die beiden zogen das Kind wie ihr eigenes auf. 
 Hermann und Mietje hielten sich in der Nähe versteckt und konnten so ihr Kind regelmäßig besuchen. 
