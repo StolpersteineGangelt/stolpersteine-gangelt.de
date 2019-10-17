@@ -2,7 +2,7 @@
 title: "Familien"
 draft: false
 ---
-## Familie Falkenstein [{{< text >}}]({{< ref "familie/familie_falkenstein.md" >}})
+## Familie Falkenstein [{{< text >}}]({{< ref "/familie/familie_falkenstein.md" >}})
 * [Emil Falkenstein] ({{< ref "/menschen/emil_falkenstein.md" >}})
 * [Hermann Falkenstein] ({{< ref "/menschen/hermann_falkenstein.md" >}})
 * [Jeanette Falkenstein] ({{< ref "/menschen/jeanette_falkenstein.md" >}})
@@ -25,14 +25,14 @@ draft: false
 * [Karel Hertz]({{< ref "/menschen/karel_hertz.md" >}})
 * [Therese Hertz verh. Memler]({{< ref "/menschen/therese_hertz.md" >}})
 
-## Familie Josephs [{{< text >}}]({{< ref "familie/familie_josephs.md" >}})
+## Familie Josephs [{{< text >}}]({{< ref "/familie/familie_josephs.md" >}})
 * [Albert Josephs]({{< ref "/menschen/albert_josephs.md" >}})
 * [Erna Josephs]({{< ref "/menschen/erna_josephs.md" >}})
 * [Frieda Josephs]({{< ref "/menschen/frieda_josephs.md" >}})
 * [Hugo Josephs]({{< ref "/menschen/hugo_josephs.md" >}})
 * [Karl Josephs]({{< ref "/menschen/karl_josephs.md" >}})
 
-## Familie Leo Hertz [{{< text >}}]({{< ref "familie/familie_leo_hertz.md" >}})
+## Familie Leo Hertz [{{< text >}}]({{< ref "/familie/familie_leo_hertz.md" >}})
 * [Berni Hertz]({{< ref "/menschen/berni_hertz.md" >}})
 * [Dieter Hertz]({{< ref "/menschen/dieter_hertz.md" >}})
 * [Leo Hertz]({{< ref "/menschen/leo_hertz.md" >}})
@@ -50,7 +50,7 @@ draft: false
 * [Isaak Lichtenstein]({{< ref "/menschen/isaak_lichtenstein.md" >}})
 * [Regina Lichtenstein]({{< ref "/menschen/regina_lichtenstein.md" >}})
 
-## Geschwister Morgenstern [{{< text >}}]({{< ref "familie/geschwister_morgenstern.md" >}})
+## Geschwister Morgenstern [{{< text >}}]({{< ref "/familie/geschwister_morgenstern.md" >}})
 * [Fritz Morgenstern]({{< ref "/menschen/fritz_morgenstern.md" >}})
 * [Heinrich Morgenstern]({{< ref "/menschen/heinrich_morgenstern.md" >}})
 * [Irma Morgenstern verh. Cohen]({{< ref "/menschen/irma_morgenstern-cohen.md" >}})
