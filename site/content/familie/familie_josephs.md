@@ -6,7 +6,7 @@ verlegestelle: "Heinsberger Straße 2"
 familie: "Familie Josephs"
 Categories: ["Familien"]
 ---
-[Albert Josephs]({{< ref "albert_josephs.md" >}}) wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älteren Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, eine ältere Schwester, [Paula]({{< ref "paula_hartog.md" >}}), sowie einen jüngeren Bruder, [Hugo]({{< ref "hugo_josephs.md" >}}). 
+[Albert Josephs]({{< ref "albert_josephs.md" >}}) wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älteren Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, sowie zwei jüngere Geschwister, [Paula]({{< ref "paula_hartog.md" >}}) und [Hugo]({{< ref "hugo_josephs.md" >}}). 
 
 Nach dem Abschluss ihrer Textilkaufmannslehre in Aachen verkaufen Albert und Hugo eine Zeit lang mit dem Motorrad Strumpfwaren auf den Straßen in und um Gangelt.
 Gemeinsam eröffnen sie ein Textilwarengeschäft in der Sittarder Straße. 
