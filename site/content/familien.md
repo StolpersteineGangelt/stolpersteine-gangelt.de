@@ -57,7 +57,9 @@ draft: false
 
 ## Familie Rosendahl
 * [Erich Rosendahl]({{< ref "/menschen/erich_rosendahl.md" >}})
-* [Helmut David Rosendahl]({{< ref "/menschen/helmut_david_rosendahl.md" >}}) [{{< person >}}]({{< ref "/geschichten/helmut-david-rosendahl.md" >}})
+* [Helmut David Rosendahl]({{< ref "/menschen/helmut_david_rosendahl.md" >}})
+   * [Die Geschichte von Helmut David Rosendahl]({{< ref "/geschichten/die_geschichte_von_helmut_david_rosendahl.md" >}})
+   * [Helmut Rosendahls Leben nach der Befreiung]({{< ref "/geschichten/helmut-rosendahls-leben-nach-der-befreiung.md" >}})
 * [Hilde Rosendahl]({{< ref "/menschen/hilde_rosendahl-illfelder.md" >}})
 * [Julie Rosendahl]({{< ref "/menschen/julie_rosendahl.md" >}})
 * [Max Rosendahl]({{< ref "/menschen/max_rosendahl.md" >}})
