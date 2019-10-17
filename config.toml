@@ -2,7 +2,7 @@ baseURL = "https://stolpersteine-gangelt.de/"
 languageCode = "de-DE"
 title = "Stolpersteine Gangelt"
 theme = "stolpersteine"
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm", "familie"]
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [taxonomies]
   category = "categories"
   tag = "tags"
