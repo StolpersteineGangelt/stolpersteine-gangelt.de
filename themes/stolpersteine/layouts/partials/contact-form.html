@@ -1,4 +1,7 @@
-<form class="w3-container" name="contact" method="POST" data-netlify="true">
+<form class="w3-container" name="contact" netlify-honeypot="bot-field" method="POST" data-netlify="true" action="/static/success/">
+    <p class="w3-hide">
+        <label>Don’t fill this out if you're human: <input name="bot-field"></label>
+    </p>
     <p>
         <label>Name: <input class="w3-input w3-light-gray" type="text" name="name" /></label>
     </p>
