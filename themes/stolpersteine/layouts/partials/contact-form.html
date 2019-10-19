@@ -1,7 +1,4 @@
-<form class="w3-container" name="kontakt" netlify-honeypot="bot-field" method="POST" data-netlify="true" action="/static/success/">
-    <p class="w3-hide">
-        <label>Don't fill this out if you're human: <input name="bot-field"></label>
-    </p>
+<form class="w3-container" name="kontakt" data-netlify-recaptcha="true" method="POST" data-netlify="true" action="/static/success/">
     <p>
         <label>Name: <input class="w3-input w3-light-gray" type="text" name="name" /></label>
     </p>
@@ -11,6 +8,7 @@
     <p>
         <label>Nachricht: <textarea class="w3-input w3-light-gray" name="message"></textarea></label>
     </p>
+    <div data-netlify-recaptcha="true"></div>
     <p>
         <button class="w3-input" type="submit">Senden</button>
     </p>
