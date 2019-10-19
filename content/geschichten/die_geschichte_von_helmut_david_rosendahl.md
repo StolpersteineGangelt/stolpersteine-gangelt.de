@@ -5,7 +5,7 @@ draft: false
 Tags: ["Helmut David Rosendahl"]
 Categories: ["Geschichten"]
 ---
-_Die folgende Geschichte ist das Transkript einer Tonbandaufnahme, die beim Besuch Hemlut David Rosendahls im August 1984 in Gangelt aufgezeichnet wurde._
+_Die folgende Geschichte ist das Transkript einer Tonbandaufnahme, die beim Besuch Helmut David Rosendahls im August 1984 in Gangelt aufgezeichnet wurde._
 
 **Hans Beckers, Gemeindedirektor:** 
 Heute, am 20. August 1984, kam Herr Helmut David Rosendahl zu uns ins Rathaus in Gangelt und beehrte uns mit seinem Besuch.

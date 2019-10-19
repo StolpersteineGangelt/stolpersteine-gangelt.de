@@ -5,7 +5,7 @@ draft: false
 Tags: ["Helmut David Rosendahl"]
 Categories: ["Geschichten"]
 ---
-_Michael Jansen verfasste diesen Text anlässlich der Verlegung der Stolpersteine für Familie Rosendahl am 01.02.2018._
+_Michael Janssen verfasste diesen Text anlässlich der Verlegung der Stolpersteine für Familie Rosendahl am 01.02.2018._
 
 Wir haben bisher meistens Menschen gedacht, die ermordet wurden, unser Land verließen und denen wir nicht nicht mehr persönlich begegnen konnten.
 
