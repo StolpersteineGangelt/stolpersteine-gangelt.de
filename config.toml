@@ -3,7 +3,10 @@ languageCode = "de-DE"
 title = "Stolpersteine Gangelt"
 theme = "stolpersteine"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+footnoteReturnLinkContents = "↩" 
 [taxonomies]
   category = "categories"
   tag = "tags"
   verlegestelle = "verlegestelle"
+[blackfriday] 
+  plainIDAnchors = false
