@@ -10,12 +10,8 @@
       <header class="list-header">
         <!-- <h1 class="list-header-title">{{ .Title }}</h1> -->
       </header>
-      {{ range ((.Pages.GroupByParam "familie") sort .Pages "familie" "asc")}}
-      <h3>{{ .Key }}</h3>
-      {{- range .Pages -}}
-      {{- partial "card.html" . -}}
-      {{- end }}
-      {{- end }}
+      <h3>{{ .Title }}</h3>
+      {{- partial "contact-form.html" . -}}
     </div>
   </div>
   {{- partial "footer.html" . -}}
