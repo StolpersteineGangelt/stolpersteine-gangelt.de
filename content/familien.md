@@ -4,6 +4,7 @@ draft: false
 ---
 ## Familie Falkenstein [{{< text >}}]({{< ref "/familie/familie_falkenstein.md" >}})
 * [Emil Falkenstein] ({{< ref "/menschen/emil_falkenstein.md" >}})
+   * [Die Geschichte von Emil Falkenstein und die Gründung der Freiwilligen Feuerwehr Gangelt]({{< ref "/geschichten/emil_falkenstein_feuerwehr_gangelt.md" >}})
 * [Hermann Falkenstein] ({{< ref "/menschen/hermann_falkenstein.md" >}})
 * [Jeanette Falkenstein] ({{< ref "/menschen/jeanette_falkenstein.md" >}})
 * [Julia Falkenstein verh. Zeligmann]({{< ref "/menschen/julia_falkenstein-zeligmann.md" >}})
