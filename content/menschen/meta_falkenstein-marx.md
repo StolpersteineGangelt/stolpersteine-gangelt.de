@@ -1,7 +1,6 @@
 ---
 title: "Meta Falkenstein verh. Marx"
 date: 2019-02-02T16:24:18+01:00
-draft: false
 verlegestelle: "Bruchstraße 26"
 familie: "Familie Falkenstein"
 Tags: ["Meta Falkenstein verh. Marx"]

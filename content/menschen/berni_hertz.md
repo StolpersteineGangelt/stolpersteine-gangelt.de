@@ -1,7 +1,6 @@
 ---
 title: "Berni Hertz"
 date: 2019-02-02T16:24:19+01:00
-draft: false
 verlegestelle: "Hanxlerstraße 6"
 familie: "Familie Leo und Berni Hertz"
 Tags: ["Berni Hertz"]

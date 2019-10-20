@@ -1,7 +1,6 @@
 ---
 title: "Hermann Hertz"
 date: 2019-02-02T16:24:20+01:00
-draft: false
 verlegestelle: "Hanxlerstraße 6"
 familie: "Familie Hermann Hertz"
 Tags: ["Hermann Hertz"]

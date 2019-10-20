@@ -1,7 +1,6 @@
 ---
 title: "Else Leopold verh. Wolff"
 date: 2019-02-02T16:24:22+01:00
-draft: false
 verlegestelle: "Sittarder Straße 20"
 familie: "Familie Leopold"
 Tags: ["Else Leopold verh. Wolff"]

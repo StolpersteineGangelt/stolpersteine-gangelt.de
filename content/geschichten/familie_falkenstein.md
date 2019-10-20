@@ -1,10 +1,10 @@
 ---
 title: "Familie Falkenstein"
 date: 2019-02-02T16:24:21+01:00
-draft: false
 verlegestelle: "Bruchstraße 26"
 familie: "Familie Falkenstein"
 Categories: ["Familien"]
+Tags: ["Emil Falkenstein", "Jeanette Falkenstein", "Hermann Falkenstein", "Meta Falkenstein verh. Marx", "Julia Falkenstein verh. Zeligmann", "Minna Falkenstein verh. Sassen"]
 ---
 
 In der Gangelter Bruchstraße wohnte in den 1930er Jahren die Familie des Zigarrenmachers [Emil Falkenstein]({{< ref "emil_falkenstein.md" >}}) mit seiner Frau [Jeanette-Henriette]({{< ref "jeanette_falkenstein.md" >}}) und den Kindern Hermann und Meta.

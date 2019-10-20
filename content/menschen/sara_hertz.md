@@ -1,10 +1,9 @@
 ---
 title: "Sara Hertz"
 date: 2019-02-02T16:24:21+01:00
-draft: false
 verlegestelle: "Wallstraße 15"
-familie: "Sara Herz"
-Tags: ["Sara Herz"]
+familie: "Sara Hertz"
+Tags: ["Sara Hertz"]
 Categories: ["Menschen"]
 ---
 

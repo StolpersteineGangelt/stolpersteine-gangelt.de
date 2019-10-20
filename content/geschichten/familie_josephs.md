@@ -1,10 +1,10 @@
 ---
 title: "Familie Josephs"
 date: 2019-02-02T16:24:21+01:00
-draft: false
 verlegestelle: "Heinsberger Straße 2"
 familie: "Familie Josephs"
 Categories: ["Familien"]
+Tags: ["Albert Josephs", "Paula Hartog", "Hugo Josphs", "Karl Josephs", "Ernst Hartog", "Frieda Josephs"]
 ---
 [Albert Josephs]({{< ref "albert_josephs.md" >}}) wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älteren Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, sowie zwei jüngere Geschwister, [Paula]({{< ref "paula_hartog.md" >}}) und [Hugo]({{< ref "hugo_josephs.md" >}}). 
 

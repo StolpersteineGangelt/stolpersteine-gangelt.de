@@ -1,7 +1,6 @@
 ---
 title: "Regina Lichtenstein"
 date: 2019-02-02T16:24:23+01:00
-draft: false
 verlegestelle: "Heinsberger Straße 11"
 familie: "Familie Lichtenstein"
 Tags: ["Regina Lichtenstein"]

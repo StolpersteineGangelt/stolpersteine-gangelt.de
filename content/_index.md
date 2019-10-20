@@ -1,6 +1,5 @@
 ---
 title: "Einleitung"
-draft: false
 layout: single
 displayInMenu: true
 weight: 0

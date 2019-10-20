@@ -1,8 +1,7 @@
 ---
 title: "Hilde Rosendahl"
 date: 2019-02-02T16:24:24+01:00
-draft: false
-verlegestelle: "Sittarder Str. 11"
+verlegestelle: "Sittarder Straße 11"
 familie: "Familie Rosendahl"
 Tags: ["Hilde Rosendahl"]
 Categories: ["Menschen"]
