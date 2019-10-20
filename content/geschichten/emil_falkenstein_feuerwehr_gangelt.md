@@ -92,7 +92,7 @@ Sein letzter Eintrag in das Protokollbuch der Freiwilligen Feuerwehr Gangelt erf
 
 In den folgenden Monaten nahmen die Repressalien gegen Juden immer weiter zu.
 Bürger, die bei Juden einkaufen gingen, wurden bedroht und beschimpft.
-So ging auch der Umsatz des Tabakwarengeschäftes Falkenstein kontinuierlich von etwa 20 Reichsmark im Jahre 1930 auf 12 Reichsmark im Jahr 1936 bis 5 Reichsmark im Jahr 1938 zurück.[^6]
+So ging auch der Umsatz des Tabakwarengeschäftes Falkenstein kontinuierlich von etwa 20.000 Reichsmark im Jahre 1930 auf 12.292 Reichsmark im Jahr 1936 bis 5.132 Reichsmark im Jahr 1938 zurück.[^6]
 
 Während Emil mit seiner Frau Jeanette in Gangelt blieb, wollte Emils Sohn Hermann Falkenstein die Verunglimpfungen nicht länger über sich ergehen lassen und wanderte am 23. Dezember 1936 in das benachbarte niederländische Sittard aus.
 Dort eröffnete er am 01. Januar 1937 ein Großhandelsgeschäft für chemische Artikel.
@@ -107,7 +107,7 @@ Aufgrund der starken Umsatzeinbußen konnte sich Emil Falkenstein jedoch die Aus
 Der Inhaber des Gangelter Modehauses Albert Josephs lieh Emil das Geld für die Aussteuer.
 
 Währenddessen spitzte sich die Situation in Deutschland immer weiter zu.
-Ende Oktober 1938 wurden zwischen 15 und 17 Juden in der sogenannten "Polenaktion" aus Deutschland vertrieben, die zwar einen polnischen Pass hatten, allerdings bereits oft lange in Deutschland lebten.[^8]
+Ende Oktober 1938 wurden zwischen 15.000 und 17.000 Juden in der sogenannten "Polenaktion" aus Deutschland vertrieben, die zwar einen polnischen Pass hatten, allerdings bereits oft lange in Deutschland lebten.[^8]
 Da Polen sie nicht alle aufnehmen konnte und wollte, lebten viele dieser Juden im "Niemandsland" zwischen Deutschland und Polen unter schrecklichsten Lebensbedingungen.
 Unter ihnen war auch die Familie Grynspan aus Hannover.
 Als ihr Sohn Herschel, der zu diesem Zeitpunkt in Paris studierte, von dem Schicksal seiner Eltern erfuhr, wollte er aus blinder Wut den deutschen Botschafter in Paris ermorden.
@@ -135,7 +135,7 @@ Hierfür mussten die Deportierten das noch übrige Vermögen als Gegenleistung z
 Diese Leistungen wurden jedoch nie erbracht, es herrschten so entsetzliche Lebensumstände, dass rund ein Viertel der Gefangenen des Ghettos Theresienstadt (etwa 33.000 Menschen) starben.[^15]
 
 Emil und Jeanette Falkenstein überlebten zwar das Konzentrationslager Theresienstadt, nach rund acht Wochen wurden die Beiden jedoch erneut deportiert.
-Ebenso wie 16 andere deutsche Juden wurden sie Richtung Osten verschleppt.
+Ebenso wie 16.098 andere deutsche Juden wurden sie Richtung Osten verschleppt.
 Am 26. September 1942 wurden sie vom KZ Theresienstadt ins Vernichtungslager Treblinka (Transport Br-538 -- Emil bzw. Transport Br-539 -- Jeanette) deportiert.
 Das Vernichtungslager Treblinka hatte allein den Zweck, Menschen zu töten.
 Den ankommenden Deportierten wurde vermittelt, dass es sich um ein Durchgangslager handelt, wie Emil Falkenstein und seine Frau Jeanette es schon aus Theresienstadt kannten.
