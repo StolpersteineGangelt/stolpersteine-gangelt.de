@@ -33,9 +33,7 @@ Beide Kinder kamen in Gangelt zur Welt.
 
 Am 27. April 1922 starb Emils Vater Voss Uri Falkenstein im Alter von 97 Jahren.
 Zu diesem Zeitpunkt war er Gangelts ältester Einwohner.
-Er wohnte bis zuletzt bei seinem Sohn Emil am Bruchtor 
-
-(Bruchstraße 128), wo dieser ein Tabak- und Lederwarengeschäft betrieb.
+Er wohnte bis zuletzt bei seinem Sohn Emil am Bruchtor (Bruchstraße 128), wo dieser ein Tabak- und Lederwarengeschäft betrieb.
 Zuvor stellten die beiden auch selber Zigarren her.[^1]
 Auch der Grabstein von Voss Uri Falkenstein ist bis heute auf dem Gangelter Friedhof am Wirtsberg erhalten geblieben.
 
