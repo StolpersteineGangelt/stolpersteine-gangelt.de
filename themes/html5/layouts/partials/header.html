@@ -1,0 +1,14 @@
+<header>
+  <nav>
+    This is the navigation bar
+    <ul>
+      {{ range .Site.Menus.main.ByWeight }}
+      <li>
+        <a href="{{ .URL }}" title="{{ .Name }} page">
+          {{ .Name }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+</header>

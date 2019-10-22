@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> HERMANN FALKENSTEIN <br />
+> **HERMANN FALKENSTEIN** <br />
 > JG. 1907 <br />
 > FLUCHT 1936 HOLLAND <br />
 > INTERNIERT WESTERBORK <br />
