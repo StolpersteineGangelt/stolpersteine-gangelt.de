@@ -27,8 +27,8 @@ Zu Beginn der 1950er Jahre erfolgte der Wiederaufbau in geänderter Form.
 
 ----
 
-Aus der Ehe von [Hermann]({{< ref "hermann_hertz.md" >}}) und [Pauline Hertz geb. Levi]({{< ref "pauline_hertz.md" >}}). gingen vier Kinder hervor. 
-Die Söhne [Leo]({{< ref "leo_hertz.md" >}}), Julius und Max sowie die Tochter [Hedwig]({{< ref "hedwig_hertz.md" >}}). 
+Aus der Ehe von [Hermann]({{< ref "hermann-hertz.md" >}}) und [Pauline Hertz geb. Levi]({{< ref "pauline-hertz.md" >}}). gingen vier Kinder hervor. 
+Die Söhne [Leo]({{< ref "leo-hertz.md" >}}), Julius und Max sowie die Tochter [Hedwig]({{< ref "hedwig-hertz.md" >}}). 
 
 Der Sohn Julius verstarb bereits im Jahre seiner Geburt.
 Sohn Max fiel 1916 als Soldat im 1. Weltkrieg im Alter von nur 21 Jahren.
@@ -49,8 +49,8 @@ Fünf Monate später, im September 1943, wurde sie über Westerbork in das Verni
 Dort wurde sie am 24. Sept. 1943 im Alter von 47 Jahren ermordet.
 
 Der älteste Sohn der Eheleute Hermann und Pauline Hertz war Leo.
-Leo war verheiratet mit [Berni Hertz geb. Altgenug]({{< ref "berni_hertz.md" >}}).
-Aus dieser Ehe gingen die Kinder [Dieter]({{< ref "dieter_hertz.md" >}}) und [Margarete]({{< ref "margarete_hertz.md" >}}) hervor.
+Leo war verheiratet mit [Berni Hertz geb. Altgenug]({{< ref "berni-hertz.md" >}}).
+Aus dieser Ehe gingen die Kinder [Dieter]({{< ref "dieter-hertz.md" >}}) und [Margarete]({{< ref "margarete-hertz.md" >}}) hervor.
 Auch diese vier Personen übersiedelten mit ihren Eltern bzw. Großeltern 1937 nach Schinnen-Puth.
 Leo wurde nach seiner Gefangennahme im Zwischenlager Westerbork inhaftiert.
 Von dort aus erfolgte zum Monatsanfang Oktober 1942 seine Einlieferung in das Konzentrationslager Mauthausen.

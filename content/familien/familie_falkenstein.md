@@ -4,10 +4,10 @@ date: 2019-02-02T16:24:21+01:00
 verlegestelle: "Bruchstraße 26"
 familie: "Familie Falkenstein"
 Categories: ["Familien"]
-Tags: ["Emil Falkenstein", "Jeanette Falkenstein", "Hermann Falkenstein", "Meta Falkenstein verh. Marx", "Julia Falkenstein verh. Zeligmann", "Minna Falkenstein verh. Sassen"]
+familienmitglieder: ["Emil Falkenstein", "Jeanette Falkenstein", "Hermann Falkenstein", "Meta Falkenstein verh. Marx", "Julia Falkenstein verh. Zeligmann", "Minna Falkenstein verh. Sassen"]
 ---
 
-In der Gangelter Bruchstraße wohnte in den 1930er Jahren die Familie des Zigarrenmachers [Emil Falkenstein]({{< ref "emil_falkenstein.md" >}}) mit seiner Frau [Jeanette-Henriette]({{< ref "jeanette_falkenstein.md" >}}) und den Kindern [Hermann]({{< ref "hermann_falkenstein.md" >}}) und [Meta]({{< ref "meta_falkenstein-marx.md" >}}).
+In der Gangelter Bruchstraße wohnte in den 1930er Jahren die Familie des Zigarrenmachers [Emil Falkenstein]({{< ref "emil-falkenstein.md" >}}) mit seiner Frau [Jeanette-Henriette]({{< ref "jeanette-falkenstein.md" >}}) und den Kindern [Hermann]({{< ref "hermann-falkenstein.md" >}}) und [Meta]({{< ref "meta-falkenstein-marx.md" >}}).
 
 Emil Falkenstein war 1920 ein Mitbegründer der freiwilligen Feuerwehr Gangelt.
 Er war damals bereits 50 Jahre alt.
@@ -50,8 +50,8 @@ Emil und Jeanette wurden am 25. Juli 1942 von Aachen nach Theresienstadt deporti
 Hier wurde Emil am 29.09.1942 ermordet. Seine Frau Jeanette wurde am 26.09.1942 ermordet.
 
 Emil Falkenstein hatte noch zwei Schwestern, die schon vor der Nazizeit Gangelt verließen und nach Holland verzogen und dort Familien gründeten.
-[Julia Zeligman]({{< ref "julia_falkenstein-zeligmann.md" >}}) wurde am 29. Oktober 1942, ebenso wie ihre ganze weitere Familie im Konzentrationslager Ausschwitz ermordet.
+[Julia Zeligman]({{< ref "julia-falkenstein-zeligmann.md" >}}) wurde am 29. Oktober 1942, ebenso wie ihre ganze weitere Familie im Konzentrationslager Ausschwitz ermordet.
 Julias Tochter Helena Croonenberg wurde zusammen mit ihren beiden Kindern Erna (geb. am 16. März 1929) und Julienne (geb. am 20. März 1933) zwei Tage später, am 31. August 1942, ermordet.
 Auch Julias Sohn Erich mit Ehefrau Irma Auguste de Vries und Kind Joseph fanden allesamt den Tod im Konzentrationslager Auschwitz.
 
-Emils jüngere Schwester [Wilhelmine "Minna" Sassen]({{< ref "minna_falkenstein-sassen.md" >}}) wurde am 14. Mai 1943 im Vernichtungslager Sobibor getötet.
+Emils jüngere Schwester [Wilhelmine "Minna" Sassen]({{< ref "minna-falkenstein-sassen.md" >}}) wurde am 14. Mai 1943 im Vernichtungslager Sobibor getötet.

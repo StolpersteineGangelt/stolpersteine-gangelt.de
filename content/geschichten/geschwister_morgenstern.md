@@ -6,7 +6,7 @@ familie: "Geschwister Morgenstern"
 Categories: ["Familien"]
 ---
 
-Nachdem die Eltern verstorben waren lebten die Geschwister [Irma]({{< ref "irma_morgenstern-cohen.md" >}}), [Fritz]({{< ref "fritz_morgenstern.md" >}}) und [Heinrich]({{< ref "heinrich_morgenstern.md" >}}) Morgenstern in der Gangelter Neustraße. 
+Nachdem die Eltern verstorben waren lebten die Geschwister [Irma]({{< ref "irma-morgenstern-cohen.md" >}}), [Fritz]({{< ref "fritz-morgenstern.md" >}}) und [Heinrich]({{< ref "heinrich-morgenstern.md" >}}) Morgenstern in der Gangelter Neustraße. 
 Ob der drohenden Gefahr durch die Nationalsozialisten verließen Irma und Fritz Gangelt vor dem November 1938 und flüchteten in die Niederlande.
 
 In der Pogromnacht am 09. November 1938 war Heinrich allein im Haus in der Neustraße. 
