@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "H:\\Dev\\projects\\html\\stolpersteine3"
+		},
+		{
+			"path": "H:\\Dev\\projects\\html\\demo"
+		},
+		{
+			"name": "hugo-cheat-sheet",
+			"path": "H:\\Dev\\projects\\hugo-cheat-sheet"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "stolpersteine3",
+		"files.trimTrailingWhitespace": true
+	}
+}

@@ -2,7 +2,7 @@
 title: "Einleitung"
 layout: single
 displayInMenu: true
-weight: 0
+weight: -100
 menu:
   main: {}
 ---

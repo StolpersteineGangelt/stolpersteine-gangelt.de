@@ -1,5 +1,12 @@
 {{ define "main" }}
-    <article>
-        {{ .Content }}
-    </article>
+     <article>
+          {{ partial "themedebugger" . }}
+          {{.Content}}
+     </article>
+{{ end }}
+
+{{ define "aside" }}
+     <aside>
+          Aside
+      </aside>
 {{ end }}

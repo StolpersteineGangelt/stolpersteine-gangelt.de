@@ -2,7 +2,7 @@
 title: "Kontakt"
 layout: "contact-form"
 type: page
-weight: 4
+weight: 500
 menu:
   main: {}
 ---

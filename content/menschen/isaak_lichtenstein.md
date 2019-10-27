@@ -8,8 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> ISAAK <br />
-> LICHTENSTEIN <br />
+> **ISAAK LICHTENSTEIN** <br />
 > SYNAGOGENVERWALTER <br />
 > JG. 1867 <br />
 > DEPORTIERT 1942 <br />
