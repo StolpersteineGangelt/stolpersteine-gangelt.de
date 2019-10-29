@@ -1,23 +1,7 @@
-<!DOCTYPE html>
-<html lang="de">
-{{- partial "head.html" . -}}
-
-<body>
-  {{- partial "nav.html" . -}}
-  {{- partial "header.html" . -}}
-  <div class="w3-content" style="max-width:2000px;margin-top:46px">
-    <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="content-container">
-      <header class="list-header">
-        <p class="list-header-subtext">{{ .Description }}</p>
-        <h1 class="list-header-title">{{ .Title }}</h1>
-      </header>
-      {{ $paginator := .Paginate (where .Pages "Params.displayinlist" "!=" false) 50 -}}
-      {{- range $paginator.Pages -}}
-      {{- partial "card.html" . -}}
-      {{- end }}
-    </div>
+{{ define "main" }}
+  <div class="silbentrennung w3-center">
+    {{- range .Pages -}}
+      <div class=""><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+    {{- end }}
   </div>
-  {{- partial "footer.html" . -}}
-</body>
-
-</html>
+{{ end }}

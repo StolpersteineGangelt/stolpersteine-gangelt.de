@@ -1,7 +1,6 @@
 ---
 title: "Die Geschichte von Helmut David Rosendahl"
 date: 2019-02-02T15:00:49+01:00
-draft: false
 Tags: ["Helmut David Rosendahl"]
 Categories: ["Geschichten"]
 ---

@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <div class="silbentrennung w3-center">
+      {{- range .Pages -}}
+      <article class="w3-padding-16">
+        <div class="w3-xlarge">{{ .Title }}
+          {{- if ne .Params.workInProgress true -}}
+          &nbsp;<a href="{{ .Permalink }}"><i class="material-icons">textsms</i></a>
+          {{- else -}}
+          &nbsp;<i class="material-icons w3-text-light-gray">textsms</i>
+          {{- end -}}
+        </div>
+        <div class="w3-small">{{ .Params.verlegestelle }}</div>
+        <div>
+          {{ range .Params.familienmitglieder }}
+          <a href="/menschen/{{ . | urlize}}">{{replaceRE "\\s+\\S*$" "" .}}</a>&nbsp;
+          {{ end }}
+        </div>
+        </article>
+      {{- end }}
+  </div>
+{{ end }}

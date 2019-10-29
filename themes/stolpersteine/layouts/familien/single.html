@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="w3-center" style="max-width:800px" id="content">
+  <div class="w3-small">{{ .Params.verlegestelle }}</div>
+  <div class="w3-medium">
+    {{ range .Params.familienmitglieder }}
+    <a href="/menschen/{{ . | urlize}}">{{replaceRE "\\s+\\S*$" "" .}}</a>&nbsp;
+    {{ end }}
+  </div>
+  <hr />
+</div>
+<div class="silbentrennung w3-left-align">
+  {{ .Content }}
+</div>
+{{ end }}

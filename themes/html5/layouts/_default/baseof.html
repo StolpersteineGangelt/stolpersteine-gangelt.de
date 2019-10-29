@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="de">
+{{- partial "head.html" . -}}
+<body>
+    {{- partial "header.html" . -}}
+    {{- partial "navigation.html" . -}}
+    <section>
+        <div id="content-container">
+            {{- block "main" . -}}
+            <!-- Foo -->
+            {{- end -}}
+        </div>
+    </section>
+    {{- block "aside" . -}}
+    {{- end -}}
+    {{- partial "footer.html" . -}}
+</body>
+</html>

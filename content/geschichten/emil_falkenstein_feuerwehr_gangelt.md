@@ -2,7 +2,7 @@
 title: "Die Geschichte von Emil Falkenstein und die Gründung der Freiwilligen Feuerwehr Gangelt" 
 date: 2019-10-19T15:05:14+02:00 
 draft: false 
-Tags: ["Emil Falkenstein"] 
+Tags: ["Emil Falkenstein", "Julia Falkenstein verh. Zeligmann"] 
 Categories: ["Geschichten"] 
 --- 
 _Dieser Text erscheint mit freundlicher Genehmigung des Autors Oliver Thelen ([Freiwillige Feuerwehr Gangelt](http://www.feuerwehr-gangelt.de))._

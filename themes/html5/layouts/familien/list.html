@@ -1,0 +1,27 @@
+{{ define "main" }}
+     <article>
+          {{- partial "themedebugger" . -}}
+          {{- .Content -}}
+          {{- range .Pages -}}
+          <section>
+               <hr />
+               <div style="font-size:20px;">
+                    <a href="{{.URL}}">{{.Title}}</a>
+               </div>
+               {{- partial "themedebugger" . -}}
+               <div>
+                    {{- .Summary -}}
+               </div>
+               <div>
+                   <ul>
+                   {{ range .Params.familienmitglieder }}
+                    <li>
+                        <a href="/menschen/{{ . | urlize }}">{{ . }}</a>
+                    </li>
+                   {{ end }}
+                    </ul>
+               </div>
+          </section>
+          {{- end -}}
+     </article>
+{{- end -}}
