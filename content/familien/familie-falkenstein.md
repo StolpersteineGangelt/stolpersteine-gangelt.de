@@ -7,7 +7,7 @@ Categories: ["Familien"]
 familienmitglieder: ["Emil Falkenstein", "Jeanette Falkenstein", "Hermann Falkenstein", "Meta Falkenstein", "Julia Falkenstein", "Minna Falkenstein"]
 ---
 
-In der Gangelter Bruchstraße wohnte in den 1930er Jahren die Familie des Zigarrenmachers [Emil Falkenstein]({{< ref "emil-falkenstein.md" >}}) mit seiner Frau [Jeanette-Henriette]({{< ref "jeanette-falkenstein-lichtenstein.md" >}}) und den Kindern [Hermann]({{< ref "hermann-falkenstein.md" >}}) und [Meta]({{< ref "meta-marx-falkenstein.md" >}}).
+In der Gangelter Bruchstraße wohnte in den 1930er Jahren die Familie des Zigarrenmachers Emil Falkenstein mit seiner Frau Jeanette-Henriette und den Kindern Hermann und Meta.
 
 Emil Falkenstein war 1920 ein Mitbegründer der freiwilligen Feuerwehr Gangelt.
 Er war damals bereits 50 Jahre alt.
@@ -51,8 +51,8 @@ Hier wurde Emil am 29.09.1942 ermordet. Seine Frau Jeanette wurde am 26.09.1942 
 
 Emil Falkenstein hatte noch zwei Schwestern, die schon vor der Nazizeit Gangelt verließen und nach Holland verzogen und dort Familien gründeten.
 
-[Julia Zeligman]({{< ref "julia-zeligmann-falkenstein.md" >}}) wurde am 29. Oktober 1942, ebenso wie ihre ganze weitere Familie im Konzentrationslager Ausschwitz ermordet.
+Julia Zeligman wurde am 29. Oktober 1942, ebenso wie ihre ganze weitere Familie im Konzentrationslager Ausschwitz ermordet.
 Julias Tochter Helena Croonenberg wurde zusammen mit ihren beiden Kindern Erna (geb. am 16. März 1929) und Julienne (geb. am 20. März 1933) zwei Tage später, am 31. August 1942, ermordet.
 Auch Julias Sohn Erich mit Ehefrau Irma Auguste de Vries und Kind Joseph fanden allesamt den Tod im Konzentrationslager Auschwitz.
 
-Emils jüngere Schwester [Wilhelmine "Minna" Sassen]({{< ref "minna-sassen-falkenstein.md" >}}) wurde am 14. Mai 1943 im Vernichtungslager Sobibor getötet.
+Emils jüngere Schwester Wilhelmine "Minna" Sassen wurde am 14. Mai 1943 im Vernichtungslager Sobibor getötet.

@@ -6,18 +6,18 @@ familie: "Familie Josephs"
 Categories: ["Familien"]
 familienmitglieder: ["Albert Josephs", "Erna Josephs", "Hugo Josephs", "Karl Josephs", "Frieda Josephs"]
 ---
-[Albert Josephs]({{< ref "albert-josephs.md" >}}) wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älteren Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, sowie zwei jüngere Geschwister, [Paula]({{< ref "paula-hartog-josephs.md" >}}) und [Hugo]({{< ref "hugo-josephs.md" >}}).
+Albert Josephs wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älteren Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, sowie zwei jüngere Geschwister, Paula und Hugo.
 
 Nach dem Abschluss ihrer Textilkaufmannslehre in Aachen verkaufen Albert und Hugo eine Zeit lang mit dem Motorrad Strumpfwaren auf den Straßen in und um Gangelt.
 Gemeinsam eröffnen sie ein Textilwarengeschäft in der Sittarder Straße.
 Mitte der 20er Jahre kaufen sie schließlich ein Haus in der Heinsberger Straße und bauen das Erdgeschoss zu einem großen Kaufhaus um.
 
-Albert heiratet [Frieda Weil]({{< ref "frieda-josephs-weil.md" >}}) aus Alsdorf.
-1927 wird der gemeinsame Sohn [Karl]({{< ref "karl-josephs.md" >}}), genannt Carlo, geboren.
+Albert heiratet Frieda Weil aus Alsdorf.
+1927 wird der gemeinsame Sohn Karl, genannt Carlo, geboren.
 Er geht mit den anderen Gangelter Kindern in den Kindergarten und später in die Volksschule.
 
-Paula heiratet [Emil Hartog]({{< ref "emil-hartog.md" >}}) aus Verlautenheide und übernimmt das elterliche Haus in der Sittarder Straße, wo sie ein Haushaltswarengeschäft eröffnet.
-Sie werden Eltern eines Sohnes, [Ernst]({{< ref "ernst-hartog.md" >}}).
+Paula heiratet Emil Hartog aus Verlautenheide und übernimmt das elterliche Haus in der Sittarder Straße, wo sie ein Haushaltswarengeschäft eröffnet.
+Sie werden Eltern eines Sohnes, Ernst.
 
 Hugo und seine Frau Erna verlassen Gangelt 1931 und ziehen nach Castrop Rauxel, wo auch ihre Tochter Helga zur Welt kommt.
 
