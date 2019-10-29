@@ -14,3 +14,5 @@ featured_image: "karel_hertz.jpg"
 > DEPORTIERT 1942 <br />
 > THERESIENSTADT<br />
 > ERMORDET 31.7.1943 <br />
+
+{{< figure src="karel_hertz2.jpg" >}}

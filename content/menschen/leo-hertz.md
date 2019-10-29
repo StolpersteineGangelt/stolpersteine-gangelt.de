@@ -10,7 +10,7 @@ Categories: ["Menschen"]
 > HANXLERSTR.6 <br />
 > EHM. BAHNHOFSTR. 193a <br />
 > WOHNTE <br />
-> LEO HERTZ <br />
+> **LEO HERTZ** <br />
 > JG. 1889 <br />
 > FLUCHT 1937 HOLLAND <br />
 > INTERNIERT WESTERBORK <br />

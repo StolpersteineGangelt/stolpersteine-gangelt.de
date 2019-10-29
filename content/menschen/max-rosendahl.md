@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> MAX ROSENDAHL <br />
+> **MAX ROSENDAHL** <br />
 > JG 1872 <br />
 > FLUCHT 1939 HOLLAND <br />
 > INTERNIERT WESTERBORK <br />

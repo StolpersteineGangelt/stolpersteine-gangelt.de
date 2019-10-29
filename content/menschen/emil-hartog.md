@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> EMIL HARTOG <br />
+> **EMIL HARTOG** <br />
 > JG. 1886 <br />
 > SCHUTZHAFT 1938 <br />
 > SACHSENHAUSEN <br />

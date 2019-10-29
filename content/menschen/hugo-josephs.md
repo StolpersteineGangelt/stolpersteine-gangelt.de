@@ -7,7 +7,7 @@ Tags: ["Hugo Josephs"]
 Categories: ["Menschen"]
 ---
 
-> HUGO JOSEPHS <br />
+> **HUGO JOSEPHS** <br />
 > JG. 1892 <br />
 > DEPORTIERT 1942 <br />
 > ZAMOSC <br />

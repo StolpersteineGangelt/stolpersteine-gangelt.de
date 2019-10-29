@@ -12,9 +12,19 @@
         <p class="list-header-subtext">{{ .Description }}</p>
         <h2 class="w3-wide">{{ .Title }}</h2>
       </header>
-      {{ $paginator := .Paginate (where .Pages "Params.displayinlist" "!=" false) 50 -}}
-      {{- range $paginator.Pages -}}
-      {{- partial "card.html" . -}}
+      {{- range .Pages -}}
+      <h3>{{ .Title }}
+            {{- if ne .Params.workInProgress true -}}
+            &nbsp;<a href="{{ .Permalink }}"><i class="material-icons">textsms</i></a>
+            {{- else -}}
+            &nbsp;<i class="material-icons w3-text-light-gray">textsms</i>
+            {{- end -}}
+      </h3>
+      <div class="w3-medium">
+        {{ range .Params.familienmitglieder }}
+        <a href="/menschen/{{ . | urlize}}">{{replaceRE "\\s+\\S*$" "" .}}</a>&nbsp;
+        {{ end }}
+      </div>
       {{- end }}
     </div>
   </div>

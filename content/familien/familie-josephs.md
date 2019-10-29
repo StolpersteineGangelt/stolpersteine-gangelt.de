@@ -4,15 +4,15 @@ date: 2019-02-02T16:24:21+01:00
 verlegestelle: "Heinsberger Straße 2"
 familie: "Familie Josephs"
 Categories: ["Familien"]
-Tags: ["Albert Josephs", "Paula Hartog", "Hugo Josphs", "Karl Josephs", "Ernst Hartog", "Frieda Josephs"]
+familienmitglieder: ["Albert Josephs", "Erna Josephs", "Hugo Josephs", "Karl Josephs", "Frieda Josephs"]
 ---
-[Albert Josephs]({{< ref "albert-josephs.md" >}}) wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älteren Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, sowie zwei jüngere Geschwister, [Paula]({{< ref "paula-hartog.md" >}}) und [Hugo]({{< ref "hugo-josephs.md" >}}). 
+[Albert Josephs]({{< ref "albert-josephs.md" >}}) wird im Jahr 1890 als Sohn des Koscherschlachters Max Josephs und dessen Frau Clara in Gangelt geboren. Er hat einen älteren Bruder, Karl, der 1916 im 1. Weltkrieg ums Leben kommt, sowie zwei jüngere Geschwister, [Paula]({{< ref "paula-hartog-josephs.md" >}}) und [Hugo]({{< ref "hugo-josephs.md" >}}).
 
 Nach dem Abschluss ihrer Textilkaufmannslehre in Aachen verkaufen Albert und Hugo eine Zeit lang mit dem Motorrad Strumpfwaren auf den Straßen in und um Gangelt.
-Gemeinsam eröffnen sie ein Textilwarengeschäft in der Sittarder Straße. 
+Gemeinsam eröffnen sie ein Textilwarengeschäft in der Sittarder Straße.
 Mitte der 20er Jahre kaufen sie schließlich ein Haus in der Heinsberger Straße und bauen das Erdgeschoss zu einem großen Kaufhaus um.
 
-Albert heiratet [Frieda Weil]({{< ref "frieda-josephs.md" >}}) aus Alsdorf.
+Albert heiratet [Frieda Weil]({{< ref "frieda-josephs-weil.md" >}}) aus Alsdorf.
 1927 wird der gemeinsame Sohn [Karl]({{< ref "karl-josephs.md" >}}), genannt Carlo, geboren.
 Er geht mit den anderen Gangelter Kindern in den Kindergarten und später in die Volksschule.
 
@@ -29,21 +29,21 @@ Hugo und seine Frau Erna verlassen Gangelt 1931 und ziehen nach Castrop Rauxel, 
 
 In der Folge der Novemberpogrome 1938 wird das Wohn- Geschäftshaus der Familie zerstört und *arisiert*.
 
-Albert kommt im November 1938 im Konzentrationslager Sachsenhausen in *Schutzhaft*. 
+Albert kommt im November 1938 im Konzentrationslager Sachsenhausen in *Schutzhaft*.
 Am 2. Dezember 1938 kehrt er aus Sachsenhausen zurück und wohnt zunächst in Gangelt als Mieter in seinem eigenen Haus.
 Im März 1939 erfolgt seine Abmeldung aus Gangelt und er zieht zu Verwandten in die Aachener Zollernstraße.
 Vermutlich im April 1941 erfolgt die Einweisung in das Barackenlager Aachen, Grüner Weg.
 Am 27. Dezember 1941 folgt die Überführung in das Lager Rhenaniastraße in Stolberg.
 Hier beginnt am 15. Juni 1942 der letzte Teil seiner Deportation, über Aachen, Koblenz, Köln, Düsseldorf in das Vernichtungslager Sobibor.
-Dort wird Albert ermordet. 
+Dort wird Albert ermordet.
 
 Seine Frau Frieda und sein Sohn Karl werden 1942 ins Ghetto Izbica deportiert und ebenfalls am 15. Juni 1942 ins Vernichtungslager Sobibor verbracht.
 Beide werden ermordet.
 Karl wird 15 Jahre alt.
 
 Hugo, Erna und Helga werden von Dortmund in das Ghetto Zamosc deportiert.
-Dort werden sie am 30. April 1942 ermordet. 
+Dort werden sie am 30. April 1942 ermordet.
 
 Emil Hartog wird im August 1942 in Auschwitz ermordet.
 
-Seiner Frau Paula und seinem Sohn Ernst gelingt die Flucht über Belgien und Frankreich in die USA. 
+Seiner Frau Paula und seinem Sohn Ernst gelingt die Flucht über Belgien und Frankreich in die USA.

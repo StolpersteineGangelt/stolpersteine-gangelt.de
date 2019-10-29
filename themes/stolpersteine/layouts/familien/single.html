@@ -9,7 +9,13 @@
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="content">
       <div class="w3-small">{{ .Params.verlegestelle }}</div>
       <h2 class="w3-wide">{{ .Title }}</h2>
-      <div class="silbentrennung w3-left-align nested-img">
+      <div class="w3-small">
+        {{ range .Params.familienmitglieder }}
+          <a href="/menschen/{{ . | urlize}}">{{replaceRE "\\s+\\S*$" "" .}}</a>&nbsp;
+        {{ end }}
+      </div>
+      <hr/>
+      <div class="silbentrennung w3-left-align">
         {{ .Content }}
       </div>
     </div>

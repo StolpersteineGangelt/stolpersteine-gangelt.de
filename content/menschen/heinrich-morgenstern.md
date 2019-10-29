@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> HEINRICH MORGENSTERN <br />
+> **HEINRICH MORGENSTERN** <br />
 > JG. 1909 <br />
 > FLUCHT 1938 HOLLAND <br />
 > INTERNIERT WESTERBORK <br />

@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> ERNST HARTOG <br />
+> **ERNST HARTOG** <br />
 > JG. 1928 <br />
 > FLUCHT 1939 <br />
 > BELGIEN / FRANKREICH <br />

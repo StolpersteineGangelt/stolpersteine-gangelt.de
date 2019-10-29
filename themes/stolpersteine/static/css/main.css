@@ -1,0 +1,21 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.silbentrennung {
+    -moz-hyphens: auto;
+    -o-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+blockquote {
+    padding-left: 0.5em;
+    border-left: 0.3em solid lightgray;
+}
+
+.nested-img figure {
+    width: 100%;
+    max-width: 100%;
+}

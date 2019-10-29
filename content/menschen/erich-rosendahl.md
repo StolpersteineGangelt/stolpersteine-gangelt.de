@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> ERICH ROSENDAHL <br />
+> **ERICH ROSENDAHL** <br />
 > JG. 1920 <br />
 > FLUCHT 1937 HOLLAND <br />
 > INTERNIERT WESTERBORK <br />

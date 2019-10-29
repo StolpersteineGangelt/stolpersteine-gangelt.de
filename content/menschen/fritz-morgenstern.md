@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> FRITZ MORGENSTERN <br />
+> **FRITZ MORGENSTERN** <br />
 > JG. 1912 <br />
 > FLUCHT HOLLAND 1938 <br />
 > MIT HILFE ÜBERLEBT <br />

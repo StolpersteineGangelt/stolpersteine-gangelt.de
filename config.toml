@@ -2,17 +2,15 @@ baseURL = "https://stolpersteine-gangelt.de/"
 languageCode = "de-DE"
 DefaultContentLanguage = "de"
 title = "Stolpersteine Gangelt"
-theme = ["html5"]
-disableKinds = ["RSS"]
+theme = ["stolpersteine"]
+# disableKinds = ["RSS"]
 footnoteReturnLinkContents = "↩"
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 pluralizelisttitles = "false"
 [params]
-  debug = true
+  debug = false
 [taxonomies]
   category = "categories"
   tag = "tags"
-  verlegestelle = "verlegestelle"
-  familiex = "familienx"
 [blackfriday]
   plainIDAnchors = false

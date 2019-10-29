@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> HELMUT ROSENDAHL <br />
+> **HELMUT ROSENDAHL** <br />
 > JG. 1917 <br />
 > FLUCHT 1938 HOLLAND <br />
 > DEPORTIERT 1944 <br />

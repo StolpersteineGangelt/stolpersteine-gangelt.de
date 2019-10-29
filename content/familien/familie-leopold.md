@@ -5,4 +5,6 @@ verlegestelle: "Sittarder Straße 20"
 familie: "Familie Leopold"
 Categories: ["Familien"]
 Tags: []
+familienmitglieder: ["Else Leopold", "Erich Leopold", "Frieda Leopold", "Hugo Leopold", "Ida Leopold", "Lion Leopold"]
+workInProgress: true
 ---

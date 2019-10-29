@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> ELISE HERTZ <br />
+> **ELISE HERTZ** <br />
 > JG. 1890 <br />
 > FLUCHT FRANKREICH <br />
 > INTERNIERT DRANCY <br />

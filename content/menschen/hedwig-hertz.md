@@ -9,8 +9,8 @@ Categories: ["Menschen"]
 
 > HANXLERSTR.6 <br />
 > EHM. BAHNHOFSTR. 193a <br />
-> WOHNTE	 <br />
-> HEDWIG HERTZ <br />
+> WOHNTE <br />
+> **HEDWIG HERTZ** <br />
 > JG. 1896 <br />
 > FLUCHT 1937 HOLLAND <br />
 > INTERNIERT WESTERBORK <br />

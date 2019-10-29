@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE<br/>
-> EMIL FALKENSTEIN<br/>
+> **EMIL FALKENSTEIN**<br/>
 > JG. 1870<br/>
 > DEPORTIERT 1942<br/>
 > THERESIENSTADT<br/>

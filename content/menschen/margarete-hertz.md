@@ -10,7 +10,7 @@ Categories: ["Menschen"]
 > HANXLERSTR. 6 <br />
 > EHM. BAHNHOFSTR. 193a <br />
 > WOHNTE <br />
-> MARGARETE HERTZ <br />
+> **MARGARETE HERTZ** <br />
 > JG. 1936 <br />
 > FLUCHT  1937 HOLLAND <br />
 > MIT HILFE ÜBERLEBT <br />

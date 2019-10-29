@@ -8,7 +8,7 @@ Categories: ["Menschen"]
 ---
 
 > HIER WOHNTE <br />
-> LION LEOPOLD <br />
+> **LION LEOPOLD** <br />
 > JG. 1871 <br />
 > VORSTEHER <br />
 > JÜDISCHE GEMEINDE <br />

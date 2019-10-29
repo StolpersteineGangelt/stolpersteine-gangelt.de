@@ -10,7 +10,7 @@ Categories: ["Menschen"]
 > HANXLERSTR.6 <br />
 > EHM. BAHNHOFSTR. 193a <br />
 > WOHNTE <br />
-> HERMANN HERTZ <br />
+> **HERMANN HERTZ** <br />
 > JG. 1859 <br />
 > FLUCHT 1937 HOLLAND <br />
 > INTERNIERT WESTERBORK <br />
