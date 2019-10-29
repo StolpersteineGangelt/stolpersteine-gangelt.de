@@ -19,3 +19,15 @@ blockquote {
     width: 100%;
     max-width: 100%;
 }
+
+.footnote-ref, .footnote-return {
+    background-color: lightyellow;
+}
+
+.footnote-ref::before {
+    content: "[";
+}
+
+.footnote-ref::after {
+    content:"]";
+}

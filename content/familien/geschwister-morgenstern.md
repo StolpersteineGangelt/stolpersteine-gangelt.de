@@ -1,6 +1,7 @@
 ---
 title: "Geschwister Morgenstern"
 date: 2019-10-27T00:26:27+02:00
+verlegestelle: "Wallstraße 10"
 Categories: ["Familien"]
 Tags: []
 familienmitglieder: ["Fritz Morgenstern", "Heinrich Morgenstern", "Irma Morgenstern"]

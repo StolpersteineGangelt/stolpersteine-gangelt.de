@@ -1,6 +1,7 @@
 ---
 title: "Einleitung"
 displayInMenu: true
+layout: "single"
 weight: -100
 ---
 *Die Stolpersteine sind ein Projekt des Künstlers Gunter Demnig, das im Jahr 1992 begann.*
