@@ -12,5 +12,5 @@ Categories: ["Menschen"]
 > JG. 1890 <br />
 > FLUCHT FRANKREICH <br />
 > INTERNIERT DRANCY <br />
-> DEPORTIERT1942 <br />
+> DEPORTIERT 1942 <br />
 > ERMORDET IN AUSCHWITZ <br />
