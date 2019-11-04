@@ -7,6 +7,8 @@ theme = ["stolpersteine"]
 footnoteReturnLinkContents = "&uarr;"
 # sectionPagesMenu = "main"
 pluralizelisttitles = "false"
+enableRobotsTXT = true
+googleAnalytics = "UA-151518247-1"
 [params]
   debug = false
 [taxonomies]
