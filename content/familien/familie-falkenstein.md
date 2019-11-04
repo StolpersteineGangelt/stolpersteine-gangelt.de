@@ -40,7 +40,7 @@ Von dort aus wurden sie eine Woche später, am 13. Juli 1943, in das Vernichtung
 Hermann und Mietje wurden dort am 16. Juli 1943 ermordet.
 
 Ihr Sohn Emil Hans "Eddy" wurde nach dem Krieg von seiner Tante Meta Marx adoptiert.
-Sie hat den Holocaust überlebt und wohnte seit 1952 in Eindhoven, wo sie am 02,12,1988 verstarb.
+Sie hat den Holocaust überlebt und wohnte seit 1952 in Eindhoven, wo sie am 02.12.1988 verstarb.
 
 Auch Emils Tochter Meta, musste Gangelt verlassen.
 Sie zog am 24. August 1938 zu ihrem Freund Albert Marx nach Roermond, den sie dort heiratete.
