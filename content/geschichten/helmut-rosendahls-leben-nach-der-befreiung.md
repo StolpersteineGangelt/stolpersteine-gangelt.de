@@ -33,7 +33,8 @@ Hierdurch fiel ihm wieder ein, was ihm in seiner Jugend in seiner Heimat widerfa
 Schlagartig, ab 1933, dem Jahr in dem er 16 Jahre alt wurde, wurden er und seine Glaubensgenossen so etwas wie Parias.
 Beinahe niemand von der übrigen Gangelter Bevölkerung wollte öffentlich dabei beobachtet werden, mit ihm und den anderen jüdischen Mitbürgern zu sprechen.
 Sein bester Schulfreund wandte sich von ihm ab.
-Es gab keine Möglichkeit in der Nähe eine Lehre anzutreten: "Für Juden verboten".
+Es gab keine Möglichkeit in der Nähe eine Lehre anzutreten:
+"Für Juden verboten".
 Was macht man bei solchen Problemen als Grenzbewohner?
 Man geht ins Nachbarland.
 In Schinveld absolvierte er eine Maler- und Anstreicherlehre.
