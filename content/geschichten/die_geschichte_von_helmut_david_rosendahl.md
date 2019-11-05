@@ -45,7 +45,7 @@ Ich hatte einen Paß bekommen hier und konnte nach Holland gehen, ich bin aber n
 Ich war bekannt an der holländischen Grenze, weil ich in Schinveld das Anstreicherfach gelernt habe.
 Ich bin nach Schinveld gegangen und an der Grenze hat der Beamte gefragt: "Wo gehst Du hin?", ich sagte: "Ich fahre eben nach Heerlen."
 
-Ich bin mit dem Fahrrad nach Heerlen gefahren und habe mir eine Fahrkarte gekauft nach Amsterdam und hin dann nach Amsterdam gegangen, wo ich eine Schwester hatte, habe in Amsterdam gewohnt bis zum Einfall  der deutschen Truppen nach Holland.
+Ich bin mit dem Fahrrad nach Heerlen gefahren und habe mir eine Fahrkarte gekauft nach Amsterdam und bin dann nach Amsterdam gegangen, wo ich eine Schwester hatte, habe in Amsterdam gewohnt bis zum Einfall  der deutschen Truppen nach Holland.
 Zu der Zeit wohnte ich in einem anderen Ort bei Rotterdam, genannt Hellevoetsluis und nach dem Einfall, nach dem 14. Mai, welcher auch mein Geburtstag war, es war an sich kein fröhlicher Geburtstag, haben die Holländer kapitulieren müssen und der Krieg war zu Ende.
 
 In einigen Wochen mußten alle Juden, die in Hellevoetsluis wohnten, mußten von der Küste weg, weil man sie nicht vertraute.
@@ -69,8 +69,8 @@ Der Mann, Türker, ist zu dem Lagerführer gegangen, zu dem SS-Lagerführer Gene
 "Ja, der kann Kohlen fahren ins Kesselhaus".
 
 So bin ich dann in Westerbork geblieben für 2 Jahre und bin am 2. oder 3. September 1944 mit meinem Bruder nach Theresienstadt gchickt worden.
-Da hat man gedacht, in Westerbork war es schlimm, jede Woche hat man da Transporte gesehen, Leute die nach Deutscand geschickt wurden.
-Man hat ihnen gesagt, sie gehen in ein Arbeitslager, aber warum kranke und alte Leute und Kinder in ein Arbeitsler schicken will, ist mir bis heute nicht bekannt.
+Da hat man gedacht, in Westerbork war es schlimm, jede Woche hat man da Transporte gesehen, Leute die nach Deutschland geschickt wurden.
+Man hat ihnen gesagt, sie gehen in ein Arbeitslager, aber warum kranke und alte Leute und Kinder in ein Arbeitslager schicken will, ist mir bis heute nicht bekannt.
 Man hat es auch nicht geglaubt.
 Ich habe niemals glauben können, daß so etwas passieren könnte.
 
@@ -78,7 +78,7 @@ Dann bin ich von Westerbork nach Theresienstadt gekommen.
 In Westerbork, das war sehr schlimm, weil jede Woche gingen 1 - 2 Züge mit 1.000 bis 3.000 Leuten nach Treblinka, Treblinka oder Auschwitz ist das selbe, weil es Vernichtungslager waren, wo man nichts andes gemacht hat, als den Leuten das Leben genommen.
 
 Ich bin nach Theresienstadt gekommen und ich dachte, es ist schlimm in Westerbork.
-In Theresienstadt ist morgens jemand vorbeigegaen mit einem großen Lastwagen, nicht mit einem alten, mit einem Handwagen, wo man früher Pferde vorgespannt hatte.
+In Theresienstadt ist morgens jemand vorbeigegangen mit einem großen Lastwagen, nicht mit einem alten, mit einem Handwagen, wo man früher Pferde vorgespannt hatte.
 Da hatte man Leute vorgespannt, die sind gegangen von Haus zu Haus.
 Die Leute, die dabei waren, sind gekommen und haben die Leichen von den Leuten genommen und man hat sie bei den Händen und Füßen angepackt, 1, 2, 3 auf den Wagen geschmissen, wie man einen Sack Kaoffeln auf den Wagen schmeißt.
 Ab und zu ist mal eine Leiche runtergefallen, weil der Wagen zu voll war.
@@ -95,7 +95,7 @@ Vor mir ist ein Mann gegangen mit einem Stock und er hat sich vor dem Kommandant
 Und man hat ihm gesagt "Schade, daß man nicht mehr von dir geschossen hat, links ab." 
 Und das war das Ende von diesem Mann.
 
-Jedenfalls als wir in diesem Lager gekommen sind, in Birkenau, da haben wir nur ein Lager neben dem anderen gehabt mit Stacheldrähten und elektrischen Drähten, das wenn man 6 m vor dem großen Draht ist, übergestiegen auf einen kleinen Draht, dann wurde man oft vom Wachtturm aus erschossen, wenn man nicht die Arbeit sich sparen wollte, daß man dazwischen durch die Leichen überall raussuchen muß-te.
+Jedenfalls als wir in diesem Lager gekommen sind, in Birkenau, da haben wir nur ein Lager neben dem anderen gehabt mit Stacheldrähten und elektrischen Drähten, das wenn man 6 m vor dem großen Draht ist, übergestiegen auf einen kleinen Draht, dann wurde man oft vom Wachtturm aus erschossen, wenn man nicht die Arbeit sich sparen wollte, daß man dazwischen durch die Leichen überall raussuchen mußte.
 Jedenfalls sind einem, wenn man im Lager ankam, die Haare stehengeblieben.
 Niemand hat auch etwas geheim gesagt, hier werden die Leute vergast.
 Wenn man mit jemanden zusammen gewesen ist und der eine ist nach rechts und der andere nach links gegangen hat man ihm direkt gesagt "Siehst du die Schornsteine da? Dort in den Schornsteinen, wo du den Rauch und den Gestank riechst und siehst, von diesen Leichen, die dort verbrannt wurden, da ist er, da ist der Kamerad."
@@ -116,7 +116,7 @@ Mein Bruder war ein Maschinist, er hat sich direkt zur Verfügung gestellt als M
 "Du bist Anstreicher, als Maschinist weißt du nichts. Es kann sein, daß du mit mir kommst oder es kann sein, daß du nicht mit mir kommst. Du bist kein Maschinist. Wenn man dir eine Frage stellt, weißt du nicht, was du machen sollst." 
 Er sagte: 
 "Warte, laß mich mal sehen, was los ist und dann werde ich sehen." 
-Mein Bruder ist aus dem Saal rausgegangen und er war noch nicht 2 Minuten draußen da hat es mir leid getan, daß ich nicht mit ihm mitgegaen bin und ich gehe zur Tür und es steht ein SS-Mann vor der Tür und sagt: 
+Mein Bruder ist aus dem Saal rausgegangen und er war noch nicht 2 Minuten draußen da hat es mir leid getan, daß ich nicht mit ihm mitgegangen bin und ich gehe zur Tür und es steht ein SS-Mann vor der Tür und sagt: 
 Barackensperre, du kannst nicht raus.
 Ich bin zurückgeblieben.
 Nachdem die Barackensperre in einer Abendstunde vorbei war, bin ich rausgegangen, aber ich habe meinen Bruder nie wiedergesen.
@@ -139,7 +139,7 @@ Man hat nicht mal der deutschen Bevölkerung zeigen wollen, wen man dort hatte.
 Wir haben grauweiße Anzüge gehabt mit blauen Streifen drin und so sind wir mit 5 und 5 gegangen.
 Die SS ist mit Gewehren im Anschlag gegangen mit einem Kapo oder Gruppenführer.
 Das war ein Verurteilter, ein Zuchthäusler.
-Er hat die Aufsicht gehabt und auch er war ein Häftling wie wir, aber er hat die Aufsicht gehabt über die Juden und an der Seite ist die SS gegangen mit Gehr und Anschlag.
+Er hat die Aufsicht gehabt und auch er war ein Häftling wie wir, aber er hat die Aufsicht gehabt über die Juden und an der Seite ist die SS gegangen mit Gewehr im Anschlag.
 
 Wir sind durch die Stadt Gleiwitz gegangen, es ist über Tag und morgens früh gewesen, aber ich habe niemals jemanden an einer Türe stehen sehen, niemals hat jemand uns angesehen, niemand hat uns marschieren sehen zu der Eisenbahnwerkstätte.
 Und das hat einen Grund gehabt, die SS hat den Leuten gesagt, auf den Wegen ist es ihnen bekanntgemacht worden: wir haben Häftlinge hier und wenn die Häftlinge flüchten wollen oder versuchen zu flüchten, werden wir schießen.
@@ -154,7 +154,7 @@ Es hat aber in keinem Fall irgendetwas gegeben, daß man andere Kleider anziehen
 Ich bin in Gleiwitz gewesen von, wollen wir sagen von Oktober bis ungefähr zur Befreiung, das war Mitte oder Ende Januar, ungefähr.
 In der Zwischenzeit habe ich niemals etwas gesehen von reiner Wäsche oder reine Hosen oder eine andere Jacke, nichts hat man verändert.
 Dann hat man uns bedroht oder man hatte uns gesagt: 
-"Wenn wir irgendwie an einem von euch Kleiderläuse finden, wird die ganze Barke vergast." 
+"Wenn wir irgendwie an einem von euch Kleiderläuse finden, wird die ganze Baracke vergast." 
 Wir haben ungefähr 3.000 Leute im Lager gehabt und das Lager wurde jede Woche angefüllt mit ungefähr 300 Leuten, um 3.000 Leute zu behalten, weil 300 Leute irgendwie verschwunden sind.
 Man hat Leute genommen und hat sie auf 2 Stühlen gelegt, dann hat man ihnen die Kleidung abgenommen, dann haben sie ein paar Kugelwunden gehabt und ein Schild hat unten gestanden: 
 "Ich versuchte zu flüchten, auf der Flucht erschossen".
@@ -203,10 +203,10 @@ Ich wollte niemals der Erste oder Letzte sein und auch nicht am Ende der Kolonne
 Und als ich am Tor gekommen bin, stand dort ein SS-Mann und der sagte zu mir: "Wo willst du denn hin?", ich sagte: "Ausmarschieren.", er sagte: 
 "Du bist doch schon ein Muselmann  du kannst nicht mehr ausmarschieren.", 
 ich sagte: "Ja, ich kann noch gut laufen." 
-Jedenfalls hat er mir mit seinem Stock, den er hatte, mir ein über die Schulter gegeben und ich weiß das auch nicht mehr so genau.
+Jedenfalls hat er mir mit seinem Stock, den er hatte, mir eine über die Schulter gegeben und ich weiß das auch nicht mehr so genau.
 Mit anderen Worten, ich mußte zurückgehen.
 Ich bin zurückgegangen und habe mir gedacht, wenn du ein Muselmann bist, dann ist das ja sowieso das Ende und wer weiß, was sein wird, vielleicht ist es gut, daß das Ende kommt.
-Jedenfalls bin ich zurück- gegangen und habe mir oben auf dem 3.
+Jedenfalls bin ich zurückgegangen und habe mir oben auf dem 3.
 Bett gelegt und habe gedacht, wenn sie mich schon erschießen wollen, was ich unterwegs ja dauernd gesehen habe auf dem Marsch, dann sollen sie es nicht so einfach haben und mich nicht so schnell finden.
 
 Es sind ungefähr 800 Leute im Lager zurückgeblieben als Muselmann, so über 9.000 Leute sind ausmarschiert.
@@ -305,7 +305,7 @@ Ich bin in Westerbork gewesen und möchte das hier sagen.
 Es ist jemand gekommen, der hat gesagt, er hat an einen englischen Radio gehört, daß 70.000 Juden in einem Konzentrationslager ermordet worden sind.
 Ich mit meinem großen Mund habe gesagt: "Es werden wohl 69.999 gewesen sein, Propaganda, das glaube ich nicht.", das kann ich nicht begreifen.
 
-Bekannte von mir, ein älterer Mann, ist in Hilversum verhaftet worden und wurde in ein Lager gebracht, nach Fürth, das ist bei Hertogenbosch.
+Bekannte von mir, ein älterer Mann, ist in Hilversum verhaftet worden und wurde in ein Lager gebracht, nach Vught, das ist bei Hertogenbosch.
 Man hat ihn dort sehr geschlagen und man hat einen Krüppel aus ihm gemacht.
 Dann ist er nach Westerbork gekommen mit einem Transport und man hat ihn auf eine Tragbahre ins Krankenhaus gebracht.
 Dort ist er für 6 Wochen gehalten worden und man hat ihn wieder ziemlich in Ordnung gebracht.
