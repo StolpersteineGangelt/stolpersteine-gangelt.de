@@ -80,7 +80,7 @@ In Westerbork, das war sehr schlimm, weil jede Woche gingen 1 - 2 Züge mit 1.00
 Ich bin nach Theresienstadt gekommen und ich dachte, es ist schlimm in Westerbork.
 In Theresienstadt ist morgens jemand vorbeigegangen mit einem großen Lastwagen, nicht mit einem alten, mit einem Handwagen, wo man früher Pferde vorgespannt hatte.
 Da hatte man Leute vorgespannt, die sind gegangen von Haus zu Haus.
-Die Leute, die dabei waren, sind gekommen und haben die Leichen von den Leuten genommen und man hat sie bei den Händen und Füßen angepackt, 1, 2, 3 auf den Wagen geschmissen, wie man einen Sack Kaoffeln auf den Wagen schmeißt.
+Die Leute, die dabei waren, sind gekommen und haben die Leichen von den Leuten genommen und man hat sie bei den Händen und Füßen angepackt, 1, 2, 3 auf den Wagen geschmissen, wie man einen Sack Kartoffeln auf den Wagen schmeißt.
 Ab und zu ist mal eine Leiche runtergefallen, weil der Wagen zu voll war.
 Die Köpfe und die Arme haben so runtergehangen, wenn man aus der zivilisierten Welt kommt, sieht es doch nicht so gut aus und man hat gedacht, es ist furchtbar.
 
