@@ -24,7 +24,7 @@ Vielmehr reisten sie unmittelbar nach Hellevoetsluis in die Niederlande.
 
 Hugo und Erich sind also in den vermeintlich sicheren Niederlanden, aber die Eltern lebten immer noch in Gangelt, wo die Lebensverhältnisse immer unerträglicher wurden.
 Auch sie wurden von den Auswirkungen der Pogromnacht getroffen.
-Ihr Nachbar, Bäckermeister Fritz half Ihnen so gut er konnte.
+Ihr Nachbar, Bäckermeister Fritz Dömges half Ihnen so gut er konnte.
 Als er aber in der Nazi-Zeitung "Der Stürmer" als Judenfreund und als jüdischer Badewassererwärmer bezeichnet wurde, konnte er nur noch sehr eingeschränkt und heimlich helfen, um Schaden für sich und seine Familie zu vermeiden.
 Hugo und Erich versuchten in Hellevoetsluis mit allen ihnen zur Verfügung stehenden Mitteln die Eltern nach Holland zu holen und erhielten schließlich im August 1939 die Aufenthaltsgenehmigung für die Eltern.
 
@@ -52,12 +52,12 @@ Es waren entsetzlich schwere Zeiten in ständiger Angst, entdeckt zu werden.
 Vier Erwachsene und zwei kleine Kinder in engen Räumen.
 
 Lion und Ida haben es etwas ruhiger angetroffen.
-23 Monate lang lebten in einem kleinen Haus bei einer Frau und deren 10-jähriger Tochter.
+23 Monate lang lebten sie in einem kleinen Haus bei einer Frau und deren 10-jähriger Tochter.
 Sie wurden weder gefunden noch verraten.
 Das Haus aber konnten sie nicht verlassen.
 Und obschon sie nicht weit entfernt von ihrem Sohn Hugo und seiner Familie wohnten, konnten sie sich während der gesamten Zeit kein einziges Mal sehen.
 
-Kurz nach der Geburt von Hugos und Franciska drittem Kind Harry brachen für die Familie sehr harte Zeiten an.
+Kurz nach der Geburt von Hugos und Franciskas drittem Kind Harry brachen für die Familie sehr harte Zeiten an.
 Aus Angst entdeckt zu werden begaben sie sich im Mai 1944 auf die Suche nach einer neuen Bleibe im Untergrund.
 Sie hinterließen das neu geborene Baby bei dem Arzt, der als Geburtshelfer tätig war.
 Hugo und Francisca mit den Kindern ziehen um in das Städtchen Oisterwijk.
@@ -79,7 +79,7 @@ Die gesamten Kriegsjahre verbrachte sie mit ihrem Mann in England.
 Lion und Ida übersiedeln 1947 von Tilburg nach Amerika.
 
 Nach dem Krieg ist Erich nach Paris zurückgekehrt, wo er im Dienste der alliierten Streitkräfte tätig war.
-Er folgt seineer Familie 1948 nach Amerika.
+Er folgte seiner Familie 1948 nach Amerika.
 
 Hugo, Franciska und die drei Kinder Walter, John und Harry waren die Letzten.
 Gemeinsam kamen sie 1951 von Tilburg aus in Amerika an.
