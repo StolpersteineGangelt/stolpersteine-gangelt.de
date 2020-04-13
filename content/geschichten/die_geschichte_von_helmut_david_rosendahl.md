@@ -6,7 +6,7 @@ Categories: ["Geschichten"]
 ---
 _Die folgende Geschichte ist das Transkript einer Tonbandaufnahme, die beim Besuch Helmut David Rosendahls im August 1984 in Gangelt aufgezeichnet wurde._
 
-**Hans Beckers, Gemeindedirektor:** 
+**Hans Beckers, Gemeindedirektor:**
 Heute, am 20. August 1984, kam Herr Helmut David Rosendahl zu uns ins Rathaus in Gangelt und beehrte uns mit seinem Besuch.
 
 Herr Helmut Rosendahl ist ein alter Gangelter.
@@ -20,7 +20,6 @@ Nach einer allgemeinen Konversation wurde er doch gebeten, für die Nachwelt ein
 
 Herr Rosendahl, ich möchte Sie herzlich bitten, so wie es Ihnen einfällt, uns etwas zu sagen, damit wir das später auch einmal nachlesen können, damit wir es auch weitergeben können.
 Ich möchte mich herzlich bedanken, daß Sie den Weg zu uns gefunden haben und im Laufe dieses Gespräches meine ich, sollten wir noch ein gemeinsames Anliegen mit Ihnen erörtern, das sich bezieht auf den alten jüdischen Friedhof.
-
 
 Aus der Korrespondenz, die wir hier vorliegen haben, ist ja zu entnehmen, daß es eins Ihrer Sorgen ist, auch an die Soldaten zu denken, die im 1. Weltkrieg ihr Leben gelassen haben.
 Herr Dr. Piepers hat sich auch darüber bereits Gedanken gemacht, unser Vorschlag geht schlicht dahin, diesen Soldaten, diesen Gangelter Bürgern ein eigenes Denkmal aufzustellen.
@@ -46,7 +45,7 @@ Ich war bekannt an der holländischen Grenze, weil ich in Schinveld das Anstreic
 Ich bin nach Schinveld gegangen und an der Grenze hat der Beamte gefragt: "Wo gehst Du hin?", ich sagte: "Ich fahre eben nach Heerlen."
 
 Ich bin mit dem Fahrrad nach Heerlen gefahren und habe mir eine Fahrkarte gekauft nach Amsterdam und bin dann nach Amsterdam gegangen, wo ich eine Schwester hatte, habe in Amsterdam gewohnt bis zum Einfall  der deutschen Truppen nach Holland.
-Zu der Zeit wohnte ich in einem anderen Ort bei Rotterdam, genannt Hellevoetsluis und nach dem Einfall, nach dem 14. Mai, welcher auch mein Geburtstag war, es war an sich kein fröhlicher Geburtstag, haben die Holländer kapitulieren müssen und der Krieg war zu Ende.
+Zu der Zeit wohnte ich in einem anderen Ort bei Rotterdam, genannt Hellevoetsluis und nach dem Einfall, nach dem 14. Mai[^1], welcher auch mein Geburtstag war, es war an sich kein fröhlicher Geburtstag, haben die Holländer kapitulieren müssen und der Krieg war zu Ende.
 
 In einigen Wochen mußten alle Juden, die in Hellevoetsluis wohnten, mußten von der Küste weg, weil man sie nicht vertraute.
 Ich bin zu der Zeit nach Hilversum gekommen und habe dann in Hilversum einige Zeit gewohnt.
@@ -56,16 +55,16 @@ Es war ein Konzentrationslager "Westerbork".
 
 Als ich in Westerbork ankam, mein Bruder Erich, welcher schon in Holland war und in Westerbork war, war dort Maschinist.
 An dem Morgen, als ich angekommen bin, am nächsten Morgen, ging der Transport weiter nach "Auschwitz" oder an einem anderen Ort, wo man die Leute direkt umbrachte, das war "Treblinka".
-Im Konzentrationslager "Treblinka", dort sind die meisten Juden, die von Holland kamen, nicht weiter behandelt worden, man hat sie direkt in die Gaskammer geschickt – Männer, Frauen und Kinder, die immer dabei waren.
+Im Konzentrationslager "Treblinka"[^1], dort sind die meisten Juden, die von Holland kamen, nicht weiter behandelt worden, man hat sie direkt in die Gaskammer geschickt – Männer, Frauen und Kinder, die immer dabei waren.
 
 Und als ich angekommen bin, ist mein Bruder zu seinem Vorgesetzten gegangen.
 Der Mann hieß Türker und kam von Österreich.
 Er war ein politischer Flüchtling von Österreich, was die meisten Leute nicht wußten, und er war Chefmaschinist im Lager "Westerbork".
 Mein Bruder war auch zu der Zeit Maschinist.
-Mein Bruder ging zu dem Herrn Türker und sagte ihm: "Mein Bruder ist heute Morgen angekommen aus Amsterdam, wahrscheinlich geht er morgen früh weg, ich gehe mit, weil ich meinen Bruder nicht alleine gehen lasse." 
-Der Mann, Türker, ist zu dem Lagerführer gegangen, zu dem SS-Lagerführer Genecker, und hat dem Genecker vorgelegt, daß mein Bruder am nächsten Morgen auch weggehen will mit seinem Bruder und der Genecker hat den Türker gefragt: 
-"Ist der Erich Rosendahl, ist er ein guter Maschinist", sagte er, 
-"Ja, sehr vertrauensvoll und verantwortlich", sagte er, "Können sie diesen Mann gebrauchen?", sagte er, 
+Mein Bruder ging zu dem Herrn Türker und sagte ihm: "Mein Bruder ist heute Morgen angekommen aus Amsterdam, wahrscheinlich geht er morgen früh weg, ich gehe mit, weil ich meinen Bruder nicht alleine gehen lasse."
+Der Mann, Türker, ist zu dem Lagerführer gegangen, zu dem SS-Lagerführer Gemmeker[^2], und hat dem Gemmeker vorgelegt, daß mein Bruder am nächsten Morgen auch weggehen will mit seinem Bruder und der Gemmeker hat den Türker gefragt:
+"Ist der Erich Rosendahl, ist er ein guter Maschinist", sagte er,
+"Ja, sehr vertrauensvoll und verantwortlich", sagte er, "Können sie diesen Mann gebrauchen?", sagte er,
 "Ja, der kann Kohlen fahren ins Kesselhaus".
 
 So bin ich dann in Westerbork geblieben für 2 Jahre und bin am 2. oder 3. September 1944 mit meinem Bruder nach Theresienstadt gchickt worden.
@@ -92,7 +91,7 @@ Aber ich habe kein jüdisch verstanden und wußte auch nicht, was es heißt.
 Aber nachher habe ich erfahren, man soll keine Krankheiten erwähnen, man soll nur gesund sein, man soll so stark wie möglich sein, man soll nur gesund sein.
 Wenn man nämlich etwas sagte, es geht rechts oder links.
 Vor mir ist ein Mann gegangen mit einem Stock und er hat sich vor dem Kommandanten gestellt, in der Haltung eines deutschen Soldaten, und hat ihm gesagt seinen Namen, er war im Kriege verwundet und man hat ihm durch den Fuß geschossen.
-Und man hat ihm gesagt "Schade, daß man nicht mehr von dir geschossen hat, links ab." 
+Und man hat ihm gesagt "Schade, daß man nicht mehr von dir geschossen hat, links ab."
 Und das war das Ende von diesem Mann.
 
 Jedenfalls als wir in diesem Lager gekommen sind, in Birkenau, da haben wir nur ein Lager neben dem anderen gehabt mit Stacheldrähten und elektrischen Drähten, das wenn man 6 m vor dem großen Draht ist, übergestiegen auf einen kleinen Draht, dann wurde man oft vom Wachtturm aus erschossen, wenn man nicht die Arbeit sich sparen wollte, daß man dazwischen durch die Leichen überall raussuchen mußte.
@@ -101,7 +100,7 @@ Niemand hat auch etwas geheim gesagt, hier werden die Leute vergast.
 Wenn man mit jemanden zusammen gewesen ist und der eine ist nach rechts und der andere nach links gegangen hat man ihm direkt gesagt "Siehst du die Schornsteine da? Dort in den Schornsteinen, wo du den Rauch und den Gestank riechst und siehst, von diesen Leichen, die dort verbrannt wurden, da ist er, da ist der Kamerad."
 
 Und so ist es dort weitergegangen, man hat nur die Leute gezählt, man ist in ein Zimmer gegangen oder in einen Saal wenn man angommen ist.
-Man mußte sich ausziehen bis auf die Haut, man hat nichts anderes angehabt: 
+Man mußte sich ausziehen bis auf die Haut, man hat nichts anderes angehabt:
 Nicht mal die Strümpfe, keine Schuhe und da hat man alles liegen lassen.
 Man ist dann in den nächsten Raum gegangen, jemand hat ihnen zugeschmissen eine Unterhose und eine Hose und eine Jacke.
 Die Unterhose, die man den meisten Leuten zuschmiß war gemacht von einem Talf.
@@ -112,11 +111,11 @@ Ich bin glücklicherweise mit meinem Bruder zusammengeblieben, bis 3 Tage.
 
 
 Nach 3 Tagen hat man Leute gefragt, die arbeiten können, die zu einem Arbeitsplatz gehen sollen.
-Mein Bruder war ein Maschinist, er hat sich direkt zur Verfügung gestellt als Maschinist und ich wollte mit ihm gehen und er sagte: 
-"Du bist Anstreicher, als Maschinist weißt du nichts. Es kann sein, daß du mit mir kommst oder es kann sein, daß du nicht mit mir kommst. Du bist kein Maschinist. Wenn man dir eine Frage stellt, weißt du nicht, was du machen sollst." 
-Er sagte: 
-"Warte, laß mich mal sehen, was los ist und dann werde ich sehen." 
-Mein Bruder ist aus dem Saal rausgegangen und er war noch nicht 2 Minuten draußen da hat es mir leid getan, daß ich nicht mit ihm mitgegangen bin und ich gehe zur Tür und es steht ein SS-Mann vor der Tür und sagt: 
+Mein Bruder war ein Maschinist, er hat sich direkt zur Verfügung gestellt als Maschinist und ich wollte mit ihm gehen und er sagte:
+"Du bist Anstreicher, als Maschinist weißt du nichts. Es kann sein, daß du mit mir kommst oder es kann sein, daß du nicht mit mir kommst. Du bist kein Maschinist. Wenn man dir eine Frage stellt, weißt du nicht, was du machen sollst."
+Er sagte:
+"Warte, laß mich mal sehen, was los ist und dann werde ich sehen."
+Mein Bruder ist aus dem Saal rausgegangen und er war noch nicht 2 Minuten draußen da hat es mir leid getan, daß ich nicht mit ihm mitgegangen bin und ich gehe zur Tür und es steht ein SS-Mann vor der Tür und sagt:
 Barackensperre, du kannst nicht raus.
 Ich bin zurückgeblieben.
 Nachdem die Barackensperre in einer Abendstunde vorbei war, bin ich rausgegangen, aber ich habe meinen Bruder nie wiedergesen.
@@ -124,7 +123,7 @@ Nun habe ich durch andere Bekannte erfahren, daß man ihn wahrscheinlich in ein 
 Er ist dann in verschiedenen Lagern gewesen und durch Dachau ist er geschickt worden nach Ebensee, wo ein Steinbruch ist.
 Im Steinbruch soll er am 22. Februar 1945 umgekommen sein und dort sind seine Reste in einem Massengrab begraben.
 
-Ich bin von Theresienstadt einige Tage später nach Gleiwitz  gebracht worden.
+Ich bin von Theresienstadt einige Tage später nach Gleiwitz[^3] gebracht worden.
 In Gleiwitz hat man 4 Konzentrationslager gehabt.
 In den Konzentrationslagern haben die Leute gearbeitet.
 Dort waren die Lager Nr. 1, 2, 3 und 4.
@@ -153,10 +152,10 @@ Es hat aber in keinem Fall irgendetwas gegeben, daß man andere Kleider anziehen
 
 Ich bin in Gleiwitz gewesen von, wollen wir sagen von Oktober bis ungefähr zur Befreiung, das war Mitte oder Ende Januar, ungefähr.
 In der Zwischenzeit habe ich niemals etwas gesehen von reiner Wäsche oder reine Hosen oder eine andere Jacke, nichts hat man verändert.
-Dann hat man uns bedroht oder man hatte uns gesagt: 
-"Wenn wir irgendwie an einem von euch Kleiderläuse finden, wird die ganze Baracke vergast." 
+Dann hat man uns bedroht oder man hatte uns gesagt:
+"Wenn wir irgendwie an einem von euch Kleiderläuse finden, wird die ganze Baracke vergast."
 Wir haben ungefähr 3.000 Leute im Lager gehabt und das Lager wurde jede Woche angefüllt mit ungefähr 300 Leuten, um 3.000 Leute zu behalten, weil 300 Leute irgendwie verschwunden sind.
-Man hat Leute genommen und hat sie auf 2 Stühlen gelegt, dann hat man ihnen die Kleidung abgenommen, dann haben sie ein paar Kugelwunden gehabt und ein Schild hat unten gestanden: 
+Man hat Leute genommen und hat sie auf 2 Stühlen gelegt, dann hat man ihnen die Kleidung abgenommen, dann haben sie ein paar Kugelwunden gehabt und ein Schild hat unten gestanden:
 "Ich versuchte zu flüchten, auf der Flucht erschossen".
 Neben der Leiche hat ein Orchester gestanden von 3, 4 oder 5 Leuten, die haben dann die "Götter von Wagner" gespielt.
 Wie gut, oder wie schlecht, bis heute ist mir noch die Musik in meinen Ohren.
@@ -192,7 +191,7 @@ Dort hat man uns gesagt, wir werden in ein anderes Lager umziehen.
 Man hat uns nicht den Grund gesagt.
 Jedenfalls haben wir doch zu wissen bekommen, daß die Russen weiterkommen.
 
-Wir sind dann des Nachmittags ausmarschiert aus dem Lager und sind ungefähr 2 Tage unterwegs gewesen nach Blechhammer.
+Wir sind dann des Nachmittags ausmarschiert aus dem Lager und sind ungefähr 2 Tage unterwegs gewesen nach Blechhammer[^4].
 Blechhammer sollte so ungefähr 20 Kilometer von Gleiwitz sein.
 Die Leute, die unterwegs nicht weiter konnten, sind an der Seite erschossen worden.
 In Blechhammer sind wir angekommen.
@@ -200,9 +199,9 @@ Man hat uns gesagt, daß die Russen zurückgeschlagen worden sind und hier werde
 Nachdem wir dort ungefähr eine Nacht geschlafen haben, wir hatten nicht mal 1 Nacht, gegen 4 Uhr hat man uns aufgeweckt, es waren zu der Zeit 10.000 Leute im Lager, aufstehen und ausmarschieren.
 
 Ich wollte niemals der Erste oder Letzte sein und auch nicht am Ende der Kolonne gehen, wo man mit 5 und 5 ging, bin ich etwas langsam gewesen, ich war zu langsam, und bin dadurch zu spät rausgegangen und wollte ausmarschieren.
-Und als ich am Tor gekommen bin, stand dort ein SS-Mann und der sagte zu mir: "Wo willst du denn hin?", ich sagte: "Ausmarschieren.", er sagte: 
-"Du bist doch schon ein Muselmann  du kannst nicht mehr ausmarschieren.", 
-ich sagte: "Ja, ich kann noch gut laufen." 
+Und als ich am Tor gekommen bin, stand dort ein SS-Mann und der sagte zu mir: "Wo willst du denn hin?", ich sagte: "Ausmarschieren.", er sagte:
+"Du bist doch schon ein Muselmann  du kannst nicht mehr ausmarschieren.",
+ich sagte: "Ja, ich kann noch gut laufen."
 Jedenfalls hat er mir mit seinem Stock, den er hatte, mir eine über die Schulter gegeben und ich weiß das auch nicht mehr so genau.
 Mit anderen Worten, ich mußte zurückgehen.
 Ich bin zurückgegangen und habe mir gedacht, wenn du ein Muselmann bist, dann ist das ja sowieso das Ende und wer weiß, was sein wird, vielleicht ist es gut, daß das Ende kommt.
@@ -216,7 +215,8 @@ Da ist keiner zurückgekommen, die sind alle umgekommen bei "Großrosen", hieß 
 
 Ich möchte hier noch eins sagen.
 Es steht in der Bibel irgendwo geschrieben, vielleicht werde ich das auch nicht richtig sagen, aber jedenfalls steht es in der Bibel geschrieben, daß 1.000 Jahre oder 3.000 Jahre in Gottes Gedanken nur 1 Tag ist.
-Und ich möchte das umdrehen und sagen, 1 Tag im Konzentrationslager, ist wie 3.000 Jahre im Leben und wenn man mir heute die Frage stellen würde: Ja, hier, du kannst noch mal 20, 30 Jahre weiterleben und mußt dasselbe mitmachen, würde ich sagen: besser ist, wenn man das nicht zu erleben hat.
+Und ich möchte das umdrehen und sagen, 1 Tag im Konzentrationslager, ist wie 3.000 Jahre im Leben und wenn man mir heute die Frage stellen würde: Ja, hier, du kannst noch mal 20, 30 Jahre weiterleben und mußt dasselbe mitmachen, würde ich sagen:
+... besser ist, wenn man das nicht zu erleben hat.
 Es ist zu schwer für einen Menschen, das zu ertragen.
 
 Jedenfalls, ich bin in Blechhammer geblieben und in der 1. Nacht sind 2 SS-Leute gekommen, die haben die Leute aus den Baracken genommen und haben sie mit in den Wald genommen.
@@ -235,22 +235,22 @@ Da dachte ich, jetzt wird das Leben vorbeigehen.
 Wenn ich schon bestimmt bin um weiterzuleben, dann muß ich jetzt abwarten, ich will nicht die letzte Minute verlieren.
 
 Ich bin dann dort in Blechhammer für einige Wochen gewesen und dann sind die Russen gekommen und haben uns gesagt: ihr müßt von hier weg, es könnte sein, daß die Deutschen zurückkommen und uns zurückschlagen, was uns schon passiert ist, das ist zu gefährlich.
-Man hat uns dann auf Güterwagen, die bestimmt waren für andere Sachen, da wo die Bretterhäuser, die auf den Güterwagen gestanden haben, draufgelassen und nach Katowitz  gebracht, von Katowitz nach Krakau, wo ich dann 3 Wochen gewesen bin.
+Man hat uns dann auf Güterwagen, die bestimmt waren für andere Sachen, da wo die Bretterhäuser, die auf den Güterwagen gestanden haben, draufgelassen und nach Katowitz[^5] gebracht, von Katowitz nach Krakau, wo ich dann 3 Wochen gewesen bin.
 Was ich niemals gehabt habe im Lager und wofür man uns immer Angst gemacht hat, waren Kleiderläuse.
 Die habe ich in Krakau bekommen oder Katowitz.
-Dort gibt es eine Grube, die Ferdinandgrube.
+Dort gibt es eine Grube, die Ferdinandgrube[^6].
 In der Ferdinandgrube haben wir im Direktionsgebäude geschlafen auf Stroh, jedenfalls haben wir Kleiderläuse gehabt und kamen da nicht von ab.
 
-Nach 3 Wochen hat man uns mit einem Zug nach Tschernowitz gebracht.
+Nach 3 Wochen hat man uns mit einem Zug nach Tschernowitz[^7] gebracht.
 Tschernowitz, das ist mehr zurück, das ist eine rumänische Stadt, wo der Bahnhof unten ist und die Stadt oben.
 Dort haben die Russen uns in ein Lager gebracht und haben uns da mit den nötigsten Lebensmitteln versorgt, die nötig waren.
 Aber nach unserer Meinung war es zu wenig Essen, haben wir gesagt.
 Bis ein russischer Arzt gekommen ist und er hat gesagt: wenn wir euch nicht das Essen vorsetzen, was nötig ist, werdet ihr euch alle zu Tode essen.
 Ich selbst habe nicht mal eine Hose finden können, die mir nach 6 Wochen gepaßt hat.
 Die mußte offen bleiben.
-Was habe ich darüber getragen? 
+Was habe ich darüber getragen?
 Einen Wachmantel von der SS, weil mein Bauch zu dick war, weil ich keine Hose tragen konnte.
-Die Russen haben uns dann auf normales Essen gestellt und gesagt: 
+Die Russen haben uns dann auf normales Essen gestellt und gesagt:
 "Wenn wir euch das Essen geben, so wie ihr essen wollt, eßt ihr euch zu Tode."
 Es sind auch Leute bei uns gewesen, die nicht mehr aufgehört haben, die das Essen gestohlen haben.
 Sie haben sich zu Tode gegessen.
@@ -271,7 +271,9 @@ Man hat frieren können und nach dem Auftauen sind die Kleiderläuse wieder dage
 Dann bin ich zurückgegangen nach Amsterdam, wo mein alter Vater war.
 Er war schon zurückgekommen von Theresienstadt.
 Ich bin dann nach Amsterdam gegangen und habe dort meinen Vater zurückgesehen oder gefunden.
-Das erste, was ich gefragt habe: "Hast du was von Erich gehört?" Und er hat natürlich gesagt, daß er nichts von meinem Bruder Erich gehört hat und natürlich wußte ich sogleich.
+Das erste, was ich gefragt habe:
+"Hast du was von Erich gehört?"
+Und er hat natürlich gesagt, daß er nichts von meinem Bruder Erich gehört hat und natürlich wußte ich sogleich.
 Ich hatte wirklich keine große Hoffnung, aber ein Mensch hofft doch letztlich, bis zum letzten Moment denkt er, daß es doch nicht so sein soll, wie es ist.
 Keiner hält sich an einem Strohhalm oder ein Mensch muß sterben und jeder andere denkt, es ist noch nicht das Ende da und so habe ich dann doch annehmen müssen, daß mein Bruder umgekommen ist.
 Nach einer gewissen Zeit hat man mir gesagt, man könnte ans "Rote Kreuz" schreiben.
@@ -305,7 +307,7 @@ Ich bin in Westerbork gewesen und möchte das hier sagen.
 Es ist jemand gekommen, der hat gesagt, er hat an einen englischen Radio gehört, daß 70.000 Juden in einem Konzentrationslager ermordet worden sind.
 Ich mit meinem großen Mund habe gesagt: "Es werden wohl 69.999 gewesen sein, Propaganda, das glaube ich nicht.", das kann ich nicht begreifen.
 
-Bekannte von mir, ein älterer Mann, ist in Hilversum verhaftet worden und wurde in ein Lager gebracht, nach Vught, das ist bei Hertogenbosch.
+Bekannte von mir, ein älterer Mann, ist in Hilversum verhaftet worden und wurde in ein Lager gebracht, nach Vught[^8], das ist bei s'Hertogenbosch.
 Man hat ihn dort sehr geschlagen und man hat einen Krüppel aus ihm gemacht.
 Dann ist er nach Westerbork gekommen mit einem Transport und man hat ihn auf eine Tragbahre ins Krankenhaus gebracht.
 Dort ist er für 6 Wochen gehalten worden und man hat ihn wieder ziemlich in Ordnung gebracht.
@@ -349,14 +351,13 @@ Mein Vater, Max Rosendahl, war in Gangelt geboren und mein Großvater ist in Gan
 Meine Großmutter, ich glaube sie hieß, Fanni Rosendahl geb. Kaufmann.
 Mein Vater hat 1906 meine Mutter in Odenkirchen geheiratet.
 Meine Mutter hieß mit ihrem Mädchennamen Kussel und ist auch in Odenkirchen auf dem Friedhof begraben.
-Sie starb 3 Wochen, nachdem ich geboren wurde.
+Sie starb drei Wochen, nachdem ich geboren wurde.
 
 Mein Vater ist ungefähr 1922 oder 1923 zurückgegangen nach Gangelt.
 Natürlich sind wir alle nach Gangelt gegangen, mein Bruder Erich, meine Schwestern Hilde und Meta.
 Wir sind in Gangelt zur Schule gegangen.
 Ich bin 1923 6 Jahre alt geworden, so bin ich dort zur Schule gegangen.
-Erst bei Lehrer Cleef, nachher bei Frl.
-Lellmann, dann bei Lehrer von den Driesch.
+Erst bei Lehrer Cleef, nachher bei Fräulein. Lellmann, dann bei Lehrer von den Driesch.
 Ich wohne jetzt in Van Nuys.
 Van Nuys ist eine Stadt, welche eine halbe Stunde oder 20 Minuten auf der Autobahn von Los Angeles entfernt liegt.
 Ich wohne dort die letzten 34 Jahre oder etwas mehr.
@@ -391,3 +392,12 @@ Ich habe im Lager mit Bekannten, die mit mir mitkamen, haben wir öfter gesproch
 So habe ich folgendes gesagt: wenn jemand einen Mord begangen hat oder ein anderes Attentat verübt hat und dann als Strafe zum Tode verurteilt wird, dann darf er den letzten Abend noch sagen, was er will.
 Ich habe dann zu den Leuten gesagt: wir haben keinen Mord begangen, wir haben nichts getan, womit man uns verurteilen könnte.
 Wir sind zum Tode verurteilt, selbst eine Henkersmahlzeit gibt man uns noch nicht mal.
+
+[^1]: Im Original als *Triblinka*
+[^2]: Albert Konrad **Gemmeker**, von Oktober 1942 bis April 1945 Kommandant des Lagers Westerbork [Wikipedia](https://de.wikipedia.org/wiki/Albert_Konrad_Gemmeker), Im Original fälschlich *Genecker*.
+[^3]: Gliwice [Wikipedia](https://de.wikipedia.org/wiki/Gliwice)
+[^4]: Arbeitslager oder Konzerntrationslager Blechhammer, poln. Blachownia Śląska, [Wikipedia](https://de.wikipedia.org/wiki/KZ_Blechhammer)
+[^5]: Gemeint ist hier eher das polnische *Katowice* (Kattowitz), nicht das tschechische *Katovice* (Katowitz), [Wikipedia](https://de.wikipedia.org/wiki/Katowice)
+[^6]: Kopalnia Węgla Kamiennego Katowice, [Wikipedia](https://de.wikipedia.org/wiki/Kopalnia_W%C4%99gla_Kamiennego_Katowice)
+[^7]: Czernowitz. Zur Zeit der Erzählung Rumänien, zwischenzeitlich Sowjetunion, heute Ukraine.
+[^8]: Kamp Vught, [Wikipedia](https://de.wikipedia.org/wiki/KZ_Herzogenbusch), Im Original fälschlich *Fürth*
