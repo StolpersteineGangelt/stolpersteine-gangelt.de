@@ -1,7 +1,7 @@
 {{ define "main" }}
-  <div class="silbentrennung w3-center">
+  <div class="silbentrennung w3-left-align">
     {{- range .Pages -}}
-      <div class=""><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+      <div class="">◆ <a href="{{ .Permalink }}">{{ .Title }}</a></div><br/>
     {{- end }}
   </div>
 {{ end }}
