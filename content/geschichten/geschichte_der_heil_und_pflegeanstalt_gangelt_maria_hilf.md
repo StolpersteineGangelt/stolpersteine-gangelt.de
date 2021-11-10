@@ -16,7 +16,7 @@ Geschichte der Heil- und Pflegeanstalt Gangelt "Maria Hilf" – Vom NS-Zwangsste
 Ab 1935 entwickelte sich mit dem staatlichen Gesundheitsamt des Kreises Geilenkirchen-Heinsberg eine institutionelle Zusammenarbeit mit der Anstalt Gangelt als auch mit dem Erbgesundheitsgericht Aachen, das zur Vereinfachung des Zwangssterilisationsverfahrens im Sinne der NS-"Rassenhygiene" nachweislich zwischen September 1935 bis August 1942 routinemäßig in der Anstalt tagte[^1].
  
 Die Patienten der Anstalt Gangelt sonderte man nach dem "Gesetz zur Verhütung erbkranken Nachwuchses" (GzVN) vom 14. Juli 1933 gewaltsam aus und wurden in der Regel im Krankenhaus Heinsberg zwangsweise sterilisiert[^2].
-Der Geilenkirchener Amtsarzt Dr. W. Schaeper, ein besonders willfähriger NS-Vollzugsbeamter[^3], übernahm vertretungsweise zwischen Juli 1942 und Dezember 1944 die Chefarztstelle in der Anstalt Gangelt wahr.
+Der Geilenkirchener Amtsarzt Dr. W. Schaeper, ein besonders willfähriger NS-Vollzugsbeamter[^3], nahm vertretungsweise zwischen Juli 1942 und Dezember 1944 die Chefarztstelle in der Anstalt Gangelt wahr.
 Er fungierte zudem jahrelang als ordentlicher Gutachter an Erbgesundheitsgerichten im Raum Köln-Aachen.[^4]
   
 Dokumentiert ist, dass zwischen 1934 bis 1944 ebenso fast alle damaligen Gangelter Anstaltsärzte sich als profunde Kenner und Praktiker der NS-Rassenhygiene am Erbgesundheit Aachen bzw. Erbgesundheitsobergericht Köln zur Durchsetzung des GzVN betätigten und letztlich über "Erbwert" und "Erbunwert" von verdächtigen Angeklagten – Akteneinsicht wurde nicht gewährt – zu entscheiden hatten.[^5]
