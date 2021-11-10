@@ -72,6 +72,8 @@ Diese Verbrechen haben einen Ort und einen Namen.
 Man darf nur eins nicht zulassen: das Vergessen.
 Mit jedem Vergessen sterben die unschuldig umgebrachten Patientinnen aus der Anstalt Gangelt ein zweites Mal.
 
+© Text: Harry Seipolt
+
 [^1]: Vgl. Hauptstaatsarchiv Düsseldorf (HStAD), Zweigstelle Schloss Kalkum, Generalakten der Abt. 9 vom Amtsgericht Aachen (Erbgesundheitssachen).
 [^2]: HStAD, Bestand Reg. Aachen Nr. 16486, Bl. 253.
 [^3]: Vgl. Schaepers NSDAP-Mitgliedskarte im Bundesarchiv, Abt. III Außenstelle Zehlendorf und HStAD, Schloss Kalkum, Rep. 216/149 u.a. Rep. 16/306, Rep. 11/2310 - Rep. 11/2312.
