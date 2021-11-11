@@ -19,7 +19,7 @@ Die Patienten der Anstalt Gangelt sonderte man nach dem "Gesetz zur Verhütung e
 Der Geilenkirchener Amtsarzt Dr. W. Schaeper, ein besonders willfähriger NS-Vollzugsbeamter[^3], nahm vertretungsweise zwischen Juli 1942 und Dezember 1944 die Chefarztstelle in der Anstalt Gangelt wahr.
 Er fungierte zudem jahrelang als ordentlicher Gutachter an Erbgesundheitsgerichten im Raum Köln-Aachen.[^4]
   
-Dokumentiert ist, dass zwischen 1934 bis 1944 ebenso fast alle damaligen Gangelter Anstaltsärzte sich als profunde Kenner und Praktiker der NS-"Rassenhygiene" am Erbgesundheit Aachen bzw. Erbgesundheitsobergericht Köln zur Durchsetzung des GzVN betätigten und letztlich über "Erbwert" und "Erbunwert" von verdächtigen Angeklagten – Akteneinsicht wurde nicht gewährt – zu entscheiden hatten.[^5]
+Dokumentiert ist, dass zwischen 1934 bis 1944 ebenso fast alle damaligen Gangelter Anstaltsärzte sich als profunde Kenner und Praktiker der NS-"Rassenhygiene" am Erbgesundheitsgericht Aachen bzw. Erbgesundheitsobergericht Köln zur Durchsetzung des GzVN betätigten und letztlich über "Erbwert" und "Erbunwert" von verdächtigen Angeklagten – Akteneinsicht wurde nicht gewährt – zu entscheiden hatten.[^5]
    
 Diese Ärzte waren nicht nur in die grausamen NS-Verbrechen der Zwangssterilisation, sondern später auch in die "Euthansie"-Aktion verstrickt. 
 Aus staatsanwaltlichen Ermittlungsakten vom Schwurgericht Düsseldorf[^6] sowie aus über 20 Archiven der Bundesrepublik, der ehemaligen DDR, aus Österreich, Polen und Tschechien ergibt sich folgende Schreckensbilanz[^7]:
