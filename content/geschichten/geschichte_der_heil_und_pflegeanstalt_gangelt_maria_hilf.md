@@ -38,12 +38,11 @@ Dr. Wesse führte mit zwei Pflegerinnen die Tötungen an den Kindern aus[^12].
 Alle Kinder- und Erwachsenen-Transporte der Anstalt Gangelt endeten in den:
 
 I. "Kinderfachabteilungen"
-1. Waldniel/b. Mönchengladbach
+1. Waldniel/b. Mönchengladbach,
 2. Lüneburg/Niedersachsen,
 3. Uchtspringe/Sachsen-Anhalt,
 4. Ueckermünde/Mecklenburg-Vorpommern und 
 5. Brandenburg-Görden/Brandenburg.
-
 
 II.	Tötungsanstalten  
 1. Hadamar/Hessen, 
@@ -54,14 +53,12 @@ II.	Tötungsanstalten
 6. Wiesengrund (Dobřany, 1939–1945), Tschechien und 
 7. Meseritz-Obrawalde (Międzyrzecz, 1939-1945), Polen.
  
-
 Der weitaus größte Teil fand im nationalsozialistischen Tötungsprogramm "Aktion T4", dem Mord an geistig Behinderten und psychisch Kranken, den Tod durch Vergasen, Aushungern oder Giftspritzen.
 
 Fast 50 weitere dieser Mädchen und Frauen gelten bis heute als verschollen.
 
 Es ist davon auszugehen, dass man deren Patientenakten bewusst vernichtet hatte, um weitere Nachforschungen zu verhindern.
-Dass diese Patientinnen die "Vernichtung lebensunwerten Lebens" überlebt haben, ist mehr als unwahrscheinlich.
- 
+Dass diese Patientinnen die Vernichtung "lebensunwerten Lebens" überlebt haben, ist mehr als unwahrscheinlich.
 
 Es ist nicht bekannt, ob bzw. wie viele Patientinnen der Gangelter Anstalt unmittelbar an den Folgen der brutalen Zwangssterilisation im Krankenhaus Heinsberg gestorben sind, wie viele Patientinnen an der vernachlässigten Pflegehygiene in den folgenden Monaten kurz nach Kriegsende elendig zugrunde gingen, wie viele Patientinnen, die man zu Hause vor dem Zugriff der mörderischen "Euthanasie"-Buchhalter versteckt hatte, dennoch durch Nazis, Nachbarn oder gar Verwandte vor Ort denunziert, an die hiesigen Polizei- und Gesundheitsbehörden ausgeliefert und auf dem Dienstweg in der NS-Vernichtungsmaschinerie der "Aktion T4" ermordet wurden.
 
@@ -83,17 +80,17 @@ Mit jedem Vergessen sterben die unschuldig umgebrachten Patientinnen aus der Ans
 [^5]: Vgl. HStAD, Rep. 216 – Gerichte (Erbgesundheits-Obergericht Köln), Nr. 149 u.ö. 
 [^6]: Vgl. 8 Kls/48 des Schwurgerichtes Düsseldorf vom 24. November 1948 (Euthanasie in der Rheinprovinz). In: Justiz und NS-Verbrechen. Sammlung deutscher Strafurteile wegen nationalsozialistischer Tötungsverbrechen 1945 – 1966, bearbeitet von Adelheid L. Rüter-Ehlermann und C. F. Rüter im Seminarium voon Strafrecht en Strafrechtspleging Van Hamel der Universiteit van Amsterdam, 22 Bände, Amsterdam 1968 – 1981, Nr. 102a) und b) in Band III, S. 461-549.
 [^7]: Eigene Recherchen des Autors mit Unterstützung u. a. des Kreisarchivs Heinsberg; des HStAD Düsseldorf; Landeswohlfahrtsverband Hessen; HStAD Wiesbaden; Bundesarchiv Koblenz; Archivberatungsstelle Rheinland - Archiv des Landschaftsverbandes Rheinland (Pulheim-Brauweiler); Archiv des Deutschen Caritasverbandes Freiburg im Breisgau; Archiv der Niederösterreichischen Landesnervenklinik Gugging; Archiv der Rheinischen Landesklinik (RLK) Viersen; Archiv der Rheinischen Landesklinik Bonn; Archiv der Psychiatrischen Klinik Lüneburg, Fachkrankenhaus für Psychiatrie, Psychotherapie und Psychosomatik, Archiv des Fachklinikums Uchtspringe (Klinik, Neurologie & Psychiatrie); Botschaft der Tschechischen Republik (Bonn).
-[^8]: Am 10. Juli 1943 wurde die Waldnieler „Kinderfachabteilung“ geschlossen. 183 Kinder, unter ihnen 15 Gangelter Kinderpatientinnen, deportierten die „Euthanasie“-Bürokraten in außerrheinische Anstalten. Auf menschliche Fürsorge konnten diese Mädchen nicht hoffen. Endstationen waren die „Kinderfachabteilungen“ Brandenburg-Görden, Uchtspringe, Ückermünde und Lüneburg. Vgl. Archivberatungsstelle Rheinland - Archiv des Landschaftsverbandes Rheinland (Pulheim-Brauweiler), Nr. 14295, Teil 2. Ebenso Staatsanwaltschaft Lüneburg, 2a JS, 279/62, Bd. II, Bl. 222. Von den 15 Gangelter Kindern überlebten nur zwei Mädchen die „Kinderfachabteilung“ Lüneburg, sie kamen 1946 zur evangelischen Anstalt Eben-Ezer in Lemgo. Recherchen: Archiv der Psychiatrischen Klinik Lüneburg, Fachkrankenhaus für Psychiatrie, Psychotherapie und Psychosomatik.
+[^8]: Am 10. Juli 1943 wurde die Waldnieler "Kinderfachabteilung" geschlossen. 183 Kinder, unter ihnen 15 Gangelter Kinderpatientinnen, deportierten die "Euthanasie"-Bürokraten in außerrheinische Anstalten. Auf menschliche Fürsorge konnten diese Mädchen nicht hoffen. Endstationen waren die "Kinderfachabteilungen" Brandenburg-Görden, Uchtspringe, Ückermünde und Lüneburg. Vgl. Archivberatungsstelle Rheinland - Archiv des Landschaftsverbandes Rheinland (Pulheim-Brauweiler), Nr. 14295, Teil 2. Ebenso Staatsanwaltschaft Lüneburg, 2a JS, 279/62, Bd. II, Bl. 222. Von den 15 Gangelter Kindern überlebten nur zwei Mädchen die "Kinderfachabteilung" Lüneburg, sie kamen 1946 zur evangelischen Anstalt Eben-Ezer in Lemgo. Recherchen: Archiv der Psychiatrischen Klinik Lüneburg, Fachkrankenhaus für Psychiatrie, Psychotherapie und Psychosomatik.
 [^9]: Archiv der RLK Viersen, Krankenakte Gertrud M.  
-[^10]: Zur Ermordung der kranken und behinderten Minderjährigen im Rahmen der Kinder-„Euthanasie“ vgl. hierzu Harry Seipolt: „Reichsausschußkinder“ im Kreis Heinsberg 1933 – 1945. In: Heimatkalender des Kreises Heinsberg, Jg. 1993, S. 123-135.
-[^11]: Landschaftsverband Rheinland/Portal Rheinische Geschichte: „Euthanasie“ und Zwangssterilisierungen im Rheinland (1933–1945). Abgerufen am 5. November 2021.
+[^10]: Zur Ermordung der kranken und behinderten Minderjährigen im Rahmen der Kinder-"Euthanasie" vgl. hierzu Harry Seipolt: "Reichsausschußkinder" im Kreis Heinsberg 1933 – 1945. In: Heimatkalender des Kreises Heinsberg, Jg. 1993, S. 123-135.
+[^11]: Landschaftsverband Rheinland/Portal Rheinische Geschichte: "Euthanasie" und Zwangssterilisierungen im Rheinland (1933–1945). Abgerufen am 5. November 2021.
 [^12]: Vgl. 8 Kls/48 des Schwurgerichtes Düsseldorf vom 24. November 1948 (Euthanasie in der Rheinprovinz). In: Justiz und NS-Verbrechen. Sammlung deutscher Strafurteile wegen nationalsozialistischer Tötungsverbrechen 1945 – 1966, a.a.O., Band III, S. 484.
-[^13]: Vgl. Harry Seipolt: Veronika A. zum Beispiel. Eine Gangelter Psychiatrie-Patientin im Strudel der Vernichtung „lebensunwerten Lebens“. In: Ralf Seidel, Wolfgang Franz Werner (Hrsg.): Psychiatrie im Abgrund. Spurensuche und Standortbestimmung nach den NS-Psychiatrie-Verbrechen. Rheinland-Verlag, Köln 1991, S. 53–73, 71f.
+[^13]: Vgl. Harry Seipolt: Veronika A. zum Beispiel. Eine Gangelter Psychiatrie-Patientin im Strudel der Vernichtung "lebensunwerten Lebens". In: Ralf Seidel, Wolfgang Franz Werner (Hrsg.): Psychiatrie im Abgrund. Spurensuche und Standortbestimmung nach den NS-Psychiatrie-Verbrechen. Rheinland-Verlag, Köln 1991, S. 53–73, 71f.
 
 
 ----
 Literatur/Quellen:
-* Harry Seipolt: Veronika A. zum Beispiel. Eine Gangelter Psychiatrie-Patientin im Strudel der Vernichtung „lebensunwerten Lebens“. In: Ralf Seidel, Wolfgang Franz Werner (Hrsg.): Psychiatrie im Abgrund. Spurensuche und Standortbestimmung nach den NS-Psychiatrie-Verbrechen. Rheinland-Verlag, Köln 1991, S. 53–73. 
-* Harry Seipolt: „ … stammt aus asozialer und erbkranker Sippe“. Zwangssterilisation und NS-Euthanasie im Kreis Heinsberg 1933 – 1945. In: Heimatkalender des Kreises Heinsberg, Jg. 1992, S. 112-124.
-* Harry Seipolt: Zwangssterilisation und NS-„Euthanasie“ in der Region Aachen. Alano Herodot, Aachen 1995.
+* Harry Seipolt: Veronika A. zum Beispiel. Eine Gangelter Psychiatrie-Patientin im Strudel der Vernichtung "lebensunwerten Lebens". In: Ralf Seidel, Wolfgang Franz Werner (Hrsg.): Psychiatrie im Abgrund. Spurensuche und Standortbestimmung nach den NS-Psychiatrie-Verbrechen. Rheinland-Verlag, Köln 1991, S. 53–73. 
+* Harry Seipolt: " … stammt aus asozialer und erbkranker Sippe". Zwangssterilisation und NS-"Euthanasie" im Kreis Heinsberg 1933 – 1945. In: Heimatkalender des Kreises Heinsberg, Jg. 1992, S. 112-124.
+* Harry Seipolt: Zwangssterilisation und NS-"Euthanasie" in der Region Aachen. Alano Herodot, Aachen 1995.
 * Artikel Gangelt (Bearb. H. Seipolt). In: Ulrike Puvogel/Martin Stankowski: Gedenkstätten für die Opfer des Nationalsozialismus. Eine Dokumentation. Schriftenreihe der Bundeszentrale für Politische Bildung, Band I: 2. Auflage. Bundeszentrale für Politische Bildung, Bonn 1995, S. 549f.  
