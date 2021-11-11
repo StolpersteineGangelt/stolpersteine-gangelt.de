@@ -6,12 +6,14 @@ Categories: ["Geschichten"]
 _Harry Seipolt, Selfkant_
 
 Am Rathaus der Gemeinde Gangelt wurde am 9. November 1991 eine Gedenktafel zur Erinnerung an die Opfer von Holocaust und "Euthanasie" in der Zeit der NS-Herrschaft in Gangelt enthüllt:
-> Wir gedenken der jüdischen Mitbürger und der Behinderten und Kranken,
-> die Opfer der nationalsozialistischen Gewaltherrschaft geworden sind.
+> _Wir gedenken der jüdischen Mitbürger und der Behinderten und Kranken,_
+> _die Opfer der nationalsozialistischen Gewaltherrschaft geworden sind._
 >
-> Die Opfer mahnen uns.
+> _Die Opfer mahnen uns._
 
-Geschichte der Heil- und Pflegeanstalt Gangelt "Maria Hilf" – Vom NS-Zwangssterilisationsgesetz bis zu den Krankenmorden im Rahmen des "Euthanasie"-Programms 1933 bis 1945 (eine Zusammenfassung)
+Die Gesellschaft für Christlich-Jüdische Zusammenarbeit Aachen e.V. beauftragte den Autor, die Verfolgung von Psychiatrie-Patienten und die Verstrickung kleiner und großer Heil- und Pflegeanstalten in die Verbrechen der NS-Zwangssterilisation und der NS-"Euthanasie" im ehemaligen Regierungsbezirk Aachen zu beforschen. 
+Ein Schwerpunkt war u.a. auch die Konfrontation der Anstalt Gangelt mit der NS-"Ausmerz"-Politik.
+Als Grundlage dienten dem Autor u.a. bisher unbekannte Archivunterlagen, Gerichtsprotokolle und Patientenakten aus dem In- und Ausland.
 
 Ab 1935 entwickelte sich mit dem staatlichen Gesundheitsamt des Kreises Geilenkirchen-Heinsberg eine institutionelle Zusammenarbeit mit der Anstalt Gangelt als auch mit dem Erbgesundheitsgericht Aachen, das zur Vereinfachung des Zwangssterilisationsverfahrens im Sinne der NS-"Rassenhygiene" nachweislich zwischen September 1935 bis August 1942 routinemäßig in der Anstalt tagte[^1].
  
