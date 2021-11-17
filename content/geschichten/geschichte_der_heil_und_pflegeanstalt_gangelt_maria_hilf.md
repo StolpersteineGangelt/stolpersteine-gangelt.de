@@ -71,6 +71,8 @@ Diese Verbrechen haben einen Ort und einen Namen.
 Man darf nur eins nicht zulassen: das Vergessen.
 Mit jedem Vergessen sterben die unschuldig umgebrachten Patientinnen aus der Anstalt Gangelt ein zweites Mal.
 
+Dieser Beitrag und die Forschungsergebnisse des Autors stehen im Gegensatz zu Werken und Gedenktafeln, die unausgesprochen Ärzte und Einrichtungen zu entschuldigen trachten.
+
 © Text: Harry Seipolt
 
 [^1]: Vgl. Hauptstaatsarchiv Düsseldorf (HStAD), Zweigstelle Schloss Kalkum, Generalakten der Abt. 9 vom Amtsgericht Aachen (Erbgesundheitssachen).
