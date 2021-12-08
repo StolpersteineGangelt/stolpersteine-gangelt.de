@@ -19,6 +19,7 @@ Die Patienten der Anstalt Gangelt sonderte man nach dem "Gesetz zur Verhütung e
 Der Geilenkirchener Amtsarzt Dr. Wilhelm Schaeper, ein besonders willfähriger NS-Vollzugsbeamter[^3], nahm vertretungsweise zwischen Juli 1942 und Dezember 1944 die Chefarztstelle in der Anstalt Gangelt wahr.
 Er fungierte zudem jahrelang als ordentlicher Gutachter an Erbgesundheitsgerichten im Raum Köln-Aachen.[^4]
 Dokumentiert ist, dass zwischen 1934 bis 1944 ebenso fast alle damaligen Gangelter Anstaltsärzte sich als profunde Kenner und Praktiker der NS-Rassenhygiene am Erbgesundheit Aachen bzw. Erbgesundheitsobergericht Köln zur Durchsetzung des GzVN betätigten und letztlich über "Erbwert" und "Erbunwert" von verdächtigen Angeklagten – Akteneinsicht wurde nicht gewährt – rücksichtslos entschieden.[^5]
+
 Diese Ärzte waren nicht nur in die grausamen NS-Verbrechen der Zwangssterilisation, sondern später auch in die "Euthanasie"-Aktion verstrickt.
 Aus staatsanwaltlichen Ermittlungsakten vom Schwurgericht Düsseldorf[^6] owie aus über 20 Archiven der Bundesrepublik, der ehemaligen DDR, aus Österreich, Polen und Tschechien ergibt sich folgende Schreckensbilanz:[^7]
 Zwischen dem 23. Oktober 1937 und 26. August 1944 wurden nachweislich 258 Patientinnen aus "planwirtschaftlichen" bzw. "zwingenden kriegswichtigen Gründen" in gerichtsbekannte Anstalten transportiert.
@@ -28,6 +29,7 @@ Todesursache: "Offene Lungentuberkulose".
 Für eine Ermordung spricht, dass SS-Arzt Dr. Hermann Wesse die Todesbescheinigung unterzeichnet hat.
 Insgesamt verstarben in der "Kinderfachabteilung" Waldniel 99 Kinder.[^11]
 Dr. Wesse führte mit zwei Pflegerinnen die Tötungen an den Kindern aus.[^12]
+
 142 Patienten aus der Anstalt Gangelt wurden in der Zeit vom 3. November bis zum 13. November 1943 nach Süchteln, Schönecken, Hausen und Neuss verlegt.[^13] Unter ihnen befand sich auch Magdalena L.
 aus Aachen[^14], die im November 1940 vierzehnjährig im Krankenhaus Heinsberg zwangssterilisiert worden war.
 Auch in "Zwischenanstalten"[^15] wurde gemordet wie in der Anstalt Eichberg.
