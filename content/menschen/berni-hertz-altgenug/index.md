@@ -8,11 +8,11 @@ Tags: ["Berni Hertz geb. Altgenug"]
 Categories: ["Menschen"]
 ---
 
-> HANXLERSTR.6 <br />
-> EHM. BAHNHOFSTR. 193a <br />
-> WOHNTE <br />
-> **BERNI HERTZ** <br />
-> GEB. ALTGENUG <br />
-> JG. 1903 <br />
-> FLUCHT 1937 HOLLAND <br />
-> MIT HILFE ÜBERLEBT <br />
+> HANXLERSTR.6  
+> EHM. BAHNHOFSTR. 193a  
+> WOHNTE  
+> **BERNI HERTZ**  
+> GEB. ALTGENUG  
+> JG. 1903  
+> FLUCHT 1937 HOLLAND  
+> MIT HILFE ÜBERLEBT  

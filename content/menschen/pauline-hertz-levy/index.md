@@ -8,13 +8,13 @@ Tags: ["Hermann Hertz"]
 Categories: ["Menschen"]
 ---
 
-> HANXLERSTR.6 <br />
-> EHM. BAHNHOFSTR. 193a <br />
-> WOHNTE <br />
-> **PAULINE HERTZ** <br />
-> GEB. LEVY <br />
-> JG. 1860 <br />
-> FLUCHT  1937 HOLLAND <br />
-> TOT 17.2.1940 <br />
-> SCHINNEN <br />
+> HANXLERSTR.6  
+> EHM. BAHNHOFSTR. 193a  
+> WOHNTE  
+> **PAULINE HERTZ**  
+> GEB. LEVY  
+> JG. 1860  
+> FLUCHT  1937 HOLLAND  
+> TOT 17.2.1940  
+> SCHINNEN  
 

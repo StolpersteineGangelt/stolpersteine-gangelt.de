@@ -7,13 +7,13 @@ Tags: ["Hedwig Hertz"]
 Categories: ["Menschen"]
 ---
 
-> HANXLERSTR.6 <br />
-> EHM. BAHNHOFSTR. 193a <br />
-> WOHNTE <br />
-> **HEDWIG HERTZ** <br />
-> JG. 1896 <br />
-> FLUCHT 1937 HOLLAND <br />
-> INTERNIERT WESTERBORK <br />
-> DEPORTIERT 1943 <br />
-> AUSCHWITZ <br />
-> ERMORDET  24.9.1943 <br />
+> HANXLERSTR.6  
+> EHM. BAHNHOFSTR. 193a  
+> WOHNTE  
+> **HEDWIG HERTZ**  
+> JG. 1896  
+> FLUCHT 1937 HOLLAND  
+> INTERNIERT WESTERBORK  
+> DEPORTIERT 1943  
+> AUSCHWITZ  
+> ERMORDET  24.9.1943  

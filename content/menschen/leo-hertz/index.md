@@ -7,13 +7,13 @@ Tags: ["Leo Hertz"]
 Categories: ["Menschen"]
 ---
 
-> HANXLERSTR.6 <br />
-> EHM. BAHNHOFSTR. 193a <br />
-> WOHNTE <br />
-> **LEO HERTZ** <br />
-> JG. 1889 <br />
-> FLUCHT 1937 HOLLAND <br />
-> INTERNIERT WESTERBORK <br />
-> DEPORTIERT 1942 <br />
-> MAUTHAUSEN <br />
-> ERMORDET 8.10.1942 <br />
+> HANXLERSTR.6  
+> EHM. BAHNHOFSTR. 193a  
+> WOHNTE  
+> **LEO HERTZ**  
+> JG. 1889  
+> FLUCHT 1937 HOLLAND  
+> INTERNIERT WESTERBORK  
+> DEPORTIERT 1942  
+> MAUTHAUSEN  
+> ERMORDET 8.10.1942  

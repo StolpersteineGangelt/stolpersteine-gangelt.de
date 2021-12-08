@@ -7,8 +7,8 @@ Tags: ["Hugo Leopold"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **HUGO LEOPOLD** <br />
-> JG. 1907 <br />
-> FLUCHT 1938 HOLLAND <br />
-> MIT HILFE ÜBERLEBT <br />
+> HIER WOHNTE  
+> **HUGO LEOPOLD**  
+> JG. 1907  
+> FLUCHT 1938 HOLLAND  
+> MIT HILFE ÜBERLEBT  

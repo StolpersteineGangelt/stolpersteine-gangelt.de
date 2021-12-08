@@ -8,11 +8,11 @@ Categories: ["Menschen"]
 featured_image: "karel_hertz.jpg"
 ---
 
-> HIER WOHNTE <br />
-> **KAREL HERTZ** <br />
-> JG. 1867 <br />
-> DEPORTIERT 1942 <br />
+> HIER WOHNTE  
+> **KAREL HERTZ**  
+> JG. 1867  
+> DEPORTIERT 1942  
 > THERESIENSTADT<br />
-> ERMORDET 31.7.1943 <br />
+> ERMORDET 31.7.1943  
 
 {{< figure src="karel_hertz2.jpg" >}}

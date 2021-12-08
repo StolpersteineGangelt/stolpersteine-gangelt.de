@@ -7,10 +7,10 @@ Tags: ["Lion Leopold"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **LION LEOPOLD** <br />
-> JG. 1871 <br />
-> VORSTEHER <br />
-> JÜDISCHE GEMEINDE <br />
-> FLUCHT 1939 HOLLAND <br />
-> MIT HILFE ÜBERLEBT <br />
+> HIER WOHNTE  
+> **LION LEOPOLD**  
+> JG. 1871  
+> VORSTEHER  
+> JÜDISCHE GEMEINDE  
+> FLUCHT 1939 HOLLAND  
+> MIT HILFE ÜBERLEBT  

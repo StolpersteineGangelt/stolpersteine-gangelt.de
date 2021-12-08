@@ -8,10 +8,10 @@ Tags: ["Paula Hartog geb. Josephs"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **PAULA HARTOG** <br />
-> GEB. JOSEPHS <br />
-> JG. 1894 <br />
-> FLUCHT 1939 <br />
-> BELGIEN / FRANKREICH <br />
-> MIT HILFE ÜBERLEBT <br />
+> HIER WOHNTE  
+> **PAULA HARTOG**  
+> GEB. JOSEPHS  
+> JG. 1894  
+> FLUCHT 1939  
+> BELGIEN / FRANKREICH  
+> MIT HILFE ÜBERLEBT  

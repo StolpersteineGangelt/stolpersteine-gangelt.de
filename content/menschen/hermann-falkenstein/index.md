@@ -7,11 +7,11 @@ Tags: ["Hermann Falkenstein"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **HERMANN FALKENSTEIN** <br />
-> JG. 1907 <br />
-> FLUCHT 1936 HOLLAND <br />
-> INTERNIERT WESTERBORK <br />
-> DEPORTIERT 1943 <br />
-> SOBIBOR <br />
-> ERMORDET 16.7.1943 <br />
+> HIER WOHNTE  
+> **HERMANN FALKENSTEIN**  
+> JG. 1907  
+> FLUCHT 1936 HOLLAND  
+> INTERNIERT WESTERBORK  
+> DEPORTIERT 1943  
+> SOBIBOR  
+> ERMORDET 16.7.1943  

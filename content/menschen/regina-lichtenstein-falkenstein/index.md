@@ -8,11 +8,11 @@ Tags: ["Regina Lichtenstein"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **REGINA** <br />
-> **LICHTENSTEIN** <br />
-> GEB. FALKENSTEIN <br />
-> JG. 1868 <br />
-> DEPORTIERT 1942 <br />
-> THERESIENSTADT <br />
-> ERMORDET 16.7.1944 <br />
+> HIER WOHNTE  
+> **REGINA**  
+> **LICHTENSTEIN**  
+> GEB. FALKENSTEIN  
+> JG. 1868  
+> DEPORTIERT 1942  
+> THERESIENSTADT  
+> ERMORDET 16.7.1944  

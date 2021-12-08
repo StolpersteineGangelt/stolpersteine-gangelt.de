@@ -7,8 +7,8 @@ Tags: ["Karl Josephs"]
 Categories: ["Menschen"]
 ---
 
-> **KARL JOSEPHS** <br />
-> JG. 1927 <br />
-> DEPORTIERT 1942 <br />
-> ERMORDET IN <br />
-> SOBIBOR <br />
+> **KARL JOSEPHS**  
+> JG. 1927  
+> DEPORTIERT 1942  
+> ERMORDET IN  
+> SOBIBOR  

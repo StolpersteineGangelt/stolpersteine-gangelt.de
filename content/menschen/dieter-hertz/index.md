@@ -7,10 +7,10 @@ Tags: ["Dieter Hertz"]
 Categories: ["Menschen"]
 ---
 
-> HANXLERSTR.6 <br />
-> EHM. BAHNHOFSTR. 193a <br />
-> WOHNTE <br />
-> **DIETER HERTZ** <br />
-> JG. 1934 <br />
-> FLUCHT 1937 HOLLAND <br />
-> MIT HILFE ÜBERLEBT <br />
+> HANXLERSTR.6  
+> EHM. BAHNHOFSTR. 193a  
+> WOHNTE  
+> **DIETER HERTZ**  
+> JG. 1934  
+> FLUCHT 1937 HOLLAND  
+> MIT HILFE ÜBERLEBT  

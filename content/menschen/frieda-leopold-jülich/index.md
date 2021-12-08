@@ -8,9 +8,9 @@ Tags: ["Frieda Leopold verh. Jülich"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **FRIEDA LEOPOLD** <br />
-> VERH.JÜLICH <br />
-> JG. 1908 <br />
-> FLUCHT 1938 <br />
-> ENGLAND <br />
+> HIER WOHNTE  
+> **FRIEDA LEOPOLD**  
+> VERH.JÜLICH  
+> JG. 1908  
+> FLUCHT 1938  
+> ENGLAND  

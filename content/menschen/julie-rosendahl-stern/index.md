@@ -8,10 +8,10 @@ Tags: ["Julie Rosendahl geb. Stern"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **JULIE ROSENDAHL** <br />
-> GEB. STERN <br />
-> JG. 1885 <br />
-> FLUCHT 1939 HOLLAND <br />
-> TOT 6.7.1939 <br />
-> AMSTERDAM <br />
+> HIER WOHNTE  
+> **JULIE ROSENDAHL**  
+> GEB. STERN  
+> JG. 1885  
+> FLUCHT 1939 HOLLAND  
+> TOT 6.7.1939  
+> AMSTERDAM  
