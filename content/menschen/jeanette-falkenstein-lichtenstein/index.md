@@ -8,11 +8,11 @@ Tags: ["Jeanette Falkenstein geb. Lichtenstein"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **JEANETTE FALKENSTEIN** <br />
-> GEB. LICHTENSTEIN <br />
-> JG. 1880 <br />
-> DEPORTIERT T 1942 <br />
-> THERESIENSTADT <br />
-> 1942 TREBLINKA <br />
-> ERMORDET <br />
+> HIER WOHNTE  
+> **JEANETTE FALKENSTEIN**  
+> GEB. LICHTENSTEIN  
+> JG. 1880  
+> DEPORTIERT T 1942  
+> THERESIENSTADT  
+> 1942 TREBLINKA  
+> ERMORDET  

@@ -7,15 +7,15 @@ Tags: ["Helmut David Rosendahl"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **HELMUT ROSENDAHL** <br />
-> JG. 1917 <br />
-> FLUCHT 1938 HOLLAND <br />
-> DEPORTIERT 1944 <br />
-> INTERNIERT WESTERBORK <br />
-> THERESIENSTADT <br />
-> AUSCHWITZ <br />
-> BEFREIT <br />
+> HIER WOHNTE  
+> **HELMUT ROSENDAHL**  
+> JG. 1917  
+> FLUCHT 1938 HOLLAND  
+> DEPORTIERT 1944  
+> INTERNIERT WESTERBORK  
+> THERESIENSTADT  
+> AUSCHWITZ  
+> BEFREIT  
 
 * [Die Geschichte von Helmut David Rosendahl]({{< ref "/geschichten/die_geschichte_von_helmut_david_rosendahl.md" >}})
 * [Helmut Rosendahls Leben nach der Befreiung]({{< ref "/geschichten/helmut-rosendahls-leben-nach-der-befreiung.md" >}})

@@ -8,10 +8,10 @@ Tags: ["Frieda Josephs geb. Weil"]
 Categories: ["Menschen"]
 ---
 
-> **FRIEDA JOSEPHS** <br />
-> GEB. WEIL <br />
-> JG. 1903 <br />
-> DEPORTIERT 1942 <br />
-> IZBICA <br />
-> ERMORDET IN <br />
-> SOBIBOR <br />
+> **FRIEDA JOSEPHS**  
+> GEB. WEIL  
+> JG. 1903  
+> DEPORTIERT 1942  
+> IZBICA  
+> ERMORDET IN  
+> SOBIBOR  

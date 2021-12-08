@@ -8,9 +8,9 @@ Tags: ["Therese Hertz verh. Memler"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> THERESE HERTZ <br />
-> VERH. MEMLER. <br />
-> JG. 1886 <br />
-> RAVENSBRÜCK <br />
-> ERMORDET <br />
+> HIER WOHNTE  
+> THERESE HERTZ  
+> VERH. MEMLER.  
+> JG. 1886  
+> RAVENSBRÜCK  
+> ERMORDET  

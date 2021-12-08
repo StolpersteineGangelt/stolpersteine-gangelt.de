@@ -8,10 +8,10 @@ Tags: ["Meta Marx geb. Falkenstein"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **META FALKENSTEIN** <br />
-> VERH. MARX <br />
-> JG. 1910 <br />
-> FLUCHT 1938 HOLLAND <br />
-> MIT HILFE <br />
-> ÜBERLEBT <br />
+> HIER WOHNTE  
+> **META FALKENSTEIN**  
+> VERH. MARX  
+> JG. 1910  
+> FLUCHT 1938 HOLLAND  
+> MIT HILFE  
+> ÜBERLEBT  

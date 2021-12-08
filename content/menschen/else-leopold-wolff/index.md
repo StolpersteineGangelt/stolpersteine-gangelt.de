@@ -8,9 +8,9 @@ Tags: ["Else Leopold verh. Wolff"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **ELSE LEOPOLD** <br />
-> VERH. WOLFF <br />
-> JG. 1909 <br />
-> FLUCHT 1938 <br />
-> ENGLAND <br />
+> HIER WOHNTE  
+> **ELSE LEOPOLD**  
+> VERH. WOLFF  
+> JG. 1909  
+> FLUCHT 1938  
+> ENGLAND  

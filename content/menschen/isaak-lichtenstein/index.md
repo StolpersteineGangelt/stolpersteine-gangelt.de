@@ -7,10 +7,10 @@ Tags: ["Isaak Lichtenstein"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **ISAAK LICHTENSTEIN** <br />
-> SYNAGOGENVERWALTER <br />
-> JG. 1867 <br />
-> DEPORTIERT 1942 <br />
-> THERESIENSTADT <br />
-> ERMORDET 2.4.1943 <br />
+> HIER WOHNTE  
+> **ISAAK LICHTENSTEIN**  
+> SYNAGOGENVERWALTER  
+> JG. 1867  
+> DEPORTIERT 1942  
+> THERESIENSTADT  
+> ERMORDET 2.4.1943  

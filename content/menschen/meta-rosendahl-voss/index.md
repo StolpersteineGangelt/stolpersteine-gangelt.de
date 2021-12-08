@@ -8,12 +8,12 @@ Tags: ["Meta Rosendahl"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **META ROSENDAHL** <br />
-> VERH. VOSS <br />
-> JG. 1909 <br />
-> FLUCHT 1936 HOLLAND <br />
-> INTERNIERT WESTERBORK <br />
-> DEPORTIERT 1942 <br />
-> AUSCHWITZ <br />
-> ERMORDET 3.9.1942 <br />
+> HIER WOHNTE  
+> **META ROSENDAHL**  
+> VERH. VOSS  
+> JG. 1909  
+> FLUCHT 1936 HOLLAND  
+> INTERNIERT WESTERBORK  
+> DEPORTIERT 1942  
+> AUSCHWITZ  
+> ERMORDET 3.9.1942  
