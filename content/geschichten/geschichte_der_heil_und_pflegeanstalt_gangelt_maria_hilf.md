@@ -44,6 +44,7 @@ Im Herbst 1942 inspizierte eine fünfköpfige Planungskommission die Anstalt Gan
 Neben der Anfertigung von Fotos des Anstaltsgebäudes wurde gleichfalls dessen Lageplan wie die exakte wirtschaftliche Kraft für die Rechnungsjahre 1937 bis 1941 in Gangelt ermittelt.
 Solche "Erhebungen", die im ganzen Deutschen Reich durchgeführt wurden, dienten wenig später als Basis weiterer Vernichtungspläne für die NS-"Euthanasie"-Planer.
 Bei jedem dieser Anstaltsbesuche der Planungskommissare wurden offen praktische "Euthanasie"-Vorschläge und Beurteilungen diskutiert.[^18]
+
 Im österreichischen Gugging hatte seit September 1943[^19] Dr. Emil Gelny - mit einem Tötungsauftrag der Berliner "Euthanasie"-Zentrale versehen – seinen Dienst angetreten.
 Gelny hatte eine besonders perfide und äußerst grausame Methode der Patiententötung entwickelt und praktiziert:
 Er benutzte Elektrostrom-Schocks, wie sie für Hinrichtungen mit dem elektrischen Stuhl üblich sind.
