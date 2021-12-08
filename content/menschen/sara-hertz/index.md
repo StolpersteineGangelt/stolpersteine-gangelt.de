@@ -7,9 +7,9 @@ Tags: ["Sara Hertz"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> SARA HERTZ <br />
-> JG. 1859 <br />
-> DEPORTIERT 1942 <br />
-> THERESIENSTADT <br />
-> ERMORDET 19.12.1942 <br />
+> HIER WOHNTE  
+> SARA HERTZ  
+> JG. 1859  
+> DEPORTIERT 1942  
+> THERESIENSTADT  
+> ERMORDET 19.12.1942  

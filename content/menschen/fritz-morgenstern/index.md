@@ -7,8 +7,8 @@ Tags: ["Fritz Morgenstern"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **FRITZ MORGENSTERN** <br />
-> JG. 1912 <br />
-> FLUCHT HOLLAND 1938 <br />
-> MIT HILFE ÜBERLEBT <br />
+> HIER WOHNTE  
+> **FRITZ MORGENSTERN**  
+> JG. 1912  
+> FLUCHT HOLLAND 1938  
+> MIT HILFE ÜBERLEBT  

@@ -7,8 +7,8 @@ Tags: ["Erich Leopold"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **ERICH LEOPOLD** <br />
-> JG. 1912 <br />
-> FLUCHT 1938 HOLLAND <br />
-> MIT HILFE ÜBERLEBT <br />
+> HIER WOHNTE  
+> **ERICH LEOPOLD**  
+> JG. 1912  
+> FLUCHT 1938 HOLLAND  
+> MIT HILFE ÜBERLEBT  

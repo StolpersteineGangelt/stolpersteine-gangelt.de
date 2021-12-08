@@ -8,12 +8,12 @@ Tags: ["Minna Falkenstein verh. Sassen"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **MINNA FALKENSTEIN** <br />
-> VERH. SASSEN <br />
-> JG. 1874 <br />
-> FLUCHT HOLLAND <br />
-> INTERNIERT WESTERBORK <br />
-> DEPORTIERT 1943 <br />
-> SOBIBOR <br />
-> ERMORDET 14.5.1943 <br />
+> HIER WOHNTE  
+> **MINNA FALKENSTEIN**  
+> VERH. SASSEN  
+> JG. 1874  
+> FLUCHT HOLLAND  
+> INTERNIERT WESTERBORK  
+> DEPORTIERT 1943  
+> SOBIBOR  
+> ERMORDET 14.5.1943  

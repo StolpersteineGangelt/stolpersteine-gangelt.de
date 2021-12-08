@@ -7,11 +7,11 @@ Tags: ["Heinrich Morgenstern"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **HEINRICH MORGENSTERN** <br />
-> JG. 1909 <br />
-> FLUCHT 1938 HOLLAND <br />
-> INTERNIERT WESTERBORK <br />
-> DEPORTIERT 1942 <br />
-> AUSCHWITZ <br />
-> ERMORDET 21.8.1942 <br />
+> HIER WOHNTE  
+> **HEINRICH MORGENSTERN**  
+> JG. 1909  
+> FLUCHT 1938 HOLLAND  
+> INTERNIERT WESTERBORK  
+> DEPORTIERT 1942  
+> AUSCHWITZ  
+> ERMORDET 21.8.1942  

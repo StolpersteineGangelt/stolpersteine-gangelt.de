@@ -7,11 +7,11 @@ Tags: ["Max Rosendahl"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **MAX ROSENDAHL** <br />
-> JG 1872 <br />
-> FLUCHT 1939 HOLLAND <br />
-> INTERNIERT WESTERBORK <br />
-> DEPORTIERT 1944 <br />
-> THERESIENSTADT <br />
-> BEFREIT <br />
+> HIER WOHNTE  
+> **MAX ROSENDAHL**  
+> JG 1872  
+> FLUCHT 1939 HOLLAND  
+> INTERNIERT WESTERBORK  
+> DEPORTIERT 1944  
+> THERESIENSTADT  
+> BEFREIT  

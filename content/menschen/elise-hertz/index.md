@@ -7,10 +7,10 @@ Tags: ["Elise Hertz"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **ELISE HERTZ** <br />
-> JG. 1890 <br />
-> FLUCHT FRANKREICH <br />
-> INTERNIERT DRANCY <br />
-> DEPORTIERT 1942 <br />
-> ERMORDET IN AUSCHWITZ <br />
+> HIER WOHNTE  
+> **ELISE HERTZ**  
+> JG. 1890  
+> FLUCHT FRANKREICH  
+> INTERNIERT DRANCY  
+> DEPORTIERT 1942  
+> ERMORDET IN AUSCHWITZ  

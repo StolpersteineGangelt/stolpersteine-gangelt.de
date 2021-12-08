@@ -8,9 +8,9 @@ Tags: ["Erna Josephs geb. Hertz"]
 Categories: ["Menschen"]
 ---
 
-> **ERNA JOSEPHS** <br />
-> GEB. HERZ <br />
-> JG. 1905 <br />
-> DEPORTIERT 1942 <br />
-> ZAMOSC <br />
-> ERMORDET <br />
+> **ERNA JOSEPHS**  
+> GEB. HERZ  
+> JG. 1905  
+> DEPORTIERT 1942  
+> ZAMOSC  
+> ERMORDET  

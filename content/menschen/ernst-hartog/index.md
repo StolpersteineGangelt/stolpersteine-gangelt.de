@@ -7,9 +7,9 @@ Tags: ["Ernst Hartog"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **ERNST HARTOG** <br />
-> JG. 1928 <br />
-> FLUCHT 1939 <br />
-> BELGIEN / FRANKREICH <br />
-> MIT HILFE ÜBERLEBT <br />
+> HIER WOHNTE  
+> **ERNST HARTOG**  
+> JG. 1928  
+> FLUCHT 1939  
+> BELGIEN / FRANKREICH  
+> MIT HILFE ÜBERLEBT  

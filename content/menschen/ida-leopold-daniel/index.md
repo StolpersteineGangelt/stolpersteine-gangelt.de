@@ -8,9 +8,9 @@ Tags: ["Lion Leopold geb. Daniel"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **IDA LEOPOLD** <br />
-> GEB. DANIEL <br />
-> JG. 1881 <br />
-> FLUCHT 1939 HOLLAND <br />
-> MIT HILFE ÜBERLEBT <br />
+> HIER WOHNTE  
+> **IDA LEOPOLD**  
+> GEB. DANIEL  
+> JG. 1881  
+> FLUCHT 1939 HOLLAND  
+> MIT HILFE ÜBERLEBT  

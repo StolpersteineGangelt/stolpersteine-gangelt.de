@@ -8,9 +8,9 @@ Tags: ["Irma Morgenstern verh. Cohen"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **IRMA MORGENSTERN** <br />
-> VERH. COHEN <br />
-> JG. 1907 <br />
-> FLUCHT 1938 HOLLAND <br />
-> MIT HILFE ÜBERLEBT <br />
+> HIER WOHNTE  
+> **IRMA MORGENSTERN**  
+> VERH. COHEN  
+> JG. 1907  
+> FLUCHT 1938 HOLLAND  
+> MIT HILFE ÜBERLEBT  

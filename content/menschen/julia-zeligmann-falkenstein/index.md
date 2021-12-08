@@ -8,10 +8,10 @@ Tags: ["Julia Falkenstein verh. Zeligmann"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **JULIA FALKENSTEIN** <br />
-> VERH. ZELIGMANN <br />
-> JG. 1881 <br />
-> DEPORTIERT <br />
-> AUSCHWITZ <br />
-> ERMORDET 29.10.1942 <br />
+> HIER WOHNTE  
+> **JULIA FALKENSTEIN**  
+> VERH. ZELIGMANN  
+> JG. 1881  
+> DEPORTIERT  
+> AUSCHWITZ  
+> ERMORDET 29.10.1942  

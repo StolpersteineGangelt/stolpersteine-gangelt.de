@@ -7,12 +7,12 @@ Tags: ["Albert Josephs"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **ALBERT JOSEPHS** <br />
-> JG. 1890 <br />
-> "SCHUTZHAFT" 1938 <br />
-> SACHSENHAUSEN <br />
-> 1941 LAGER STOLBERG <br />
-> DEPORTIERT 1942 <br />
-> ERMORDET IN <br />
-> SOBIBOR <br />
+> HIER WOHNTE  
+> **ALBERT JOSEPHS**  
+> JG. 1890  
+> "SCHUTZHAFT" 1938  
+> SACHSENHAUSEN  
+> 1941 LAGER STOLBERG  
+> DEPORTIERT 1942  
+> ERMORDET IN  
+> SOBIBOR  

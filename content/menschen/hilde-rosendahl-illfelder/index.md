@@ -8,12 +8,12 @@ Tags: ["Hilde Rosendahl"]
 Categories: ["Menschen"]
 ---
 
-> HIER WOHNTE <br />
-> **HILDE ROSENDAHL** <br />
-> VERH. ILLFELDER <br />
-> JG. 1907 <br />
-> FLUCHT 1934 HOLLAND <br />
-> INTERNIERT WESTERBORK <br />
-> DEPORTIERT 1943 <br />
-> AUSCHWITZ <br />
-> ERMORDET 3.11.1943 <br />
+> HIER WOHNTE  
+> **HILDE ROSENDAHL**  
+> VERH. ILLFELDER  
+> JG. 1907  
+> FLUCHT 1934 HOLLAND  
+> INTERNIERT WESTERBORK  
+> DEPORTIERT 1943  
+> AUSCHWITZ  
+> ERMORDET 3.11.1943  
