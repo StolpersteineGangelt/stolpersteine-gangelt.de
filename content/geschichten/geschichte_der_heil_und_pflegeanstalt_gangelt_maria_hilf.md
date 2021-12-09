@@ -6,9 +6,9 @@ Categories: ["Geschichten"]
 
 Am Rathaus der Gemeinde Gangelt wurde am 9. November 1991 eine Gedenktafel zur Erinnerung an die Opfer von Holocaust und "Euthanasie" in der Zeit der NS-Herrschaft in Gangelt enthüllt:
 
-> Wir gedenken der jüdischen Mitbürger und der Behinderten und Kranken,  
-> die Opfer der nationalsozialistischen Gewaltherrschaft geworden sind.  
-> Die Opfer mahnen uns.
+> _Wir gedenken der jüdischen Mitbürger und der Behinderten und Kranken,_  
+> _die Opfer der nationalsozialistischen Gewaltherrschaft geworden sind._  
+> _Die Opfer mahnen uns._
 
 Die Gesellschaft für Christlich-Jüdische Zusammenarbeit Aachen e.V. beauftragte den Autor, die Verfolgung von Psychiatrie-Patienten und die Verstrickung kleiner und großer Heil- und Pflegeanstalten in die Verbrechen der NS-Zwangssterilisation und der NS-"Euthanasie" im ehemaligen Regierungsbezirk Aachen zu beforschen.
 Ein Schwerpunkt war auch die Konfrontation der Heil- und Pflegeanstalt Gangelt mit der NS-"Ausmerz"-Politik.
@@ -22,6 +22,7 @@ Dokumentiert ist, dass zwischen 1934 bis 1944 ebenso fast alle damaligen Gangelt
 
 Diese Ärzte waren nicht nur in die grausamen NS-Verbrechen der Zwangssterilisation, sondern später auch in die "Euthanasie"-Aktion verstrickt.
 Aus staatsanwaltlichen Ermittlungsakten vom Schwurgericht Düsseldorf[^6] owie aus über 20 Archiven der Bundesrepublik, der ehemaligen DDR, aus Österreich, Polen und Tschechien ergibt sich folgende Schreckensbilanz:[^7]
+
 Zwischen dem 23. Oktober 1937 und 26. August 1944 wurden nachweislich 258 Patientinnen aus "planwirtschaftlichen" bzw. "zwingenden kriegswichtigen Gründen" in gerichtsbekannte Anstalten transportiert.
 Unter diesen Gangelter Patientinnen befanden sich insgesamt 26 minderjährige Mädchen, die zwischen dem 2. Oktober 1941 und dem 29. Mai 1943[^8] in die "Kinderfachabteilung" Waldniel gebracht worden waren, unter ihnen auch die gerade erst 6-jährige Gertrud M.[^9] aus Geilenkirchen.
 Diese Abteilungen waren getarnte Tötungszentren, in denen geistig und körperlich z.T. schwerbehinderte Kinder und Jugendliche klinisch hingerichtet wurden.[^10] Die kleine Gertrud starb am 18. August 1942 um 20.15 Uhr in der "Kinderfachabteilung" Waldniel.
@@ -58,7 +59,7 @@ Magdalena wurde nur 17 Jahre und 7 Monate alt, sie "starb" am 6. Dezember 1943 a
 Alle Kinder- und Erwachsenen-Transporte der Anstalt Gangelt endeten in den:
 
 I.	"Kinderfachabteilungen"
-1.	Waldniel/b. Mönchengladbach
+1.	Waldniel/b. Mönchengladbach,
 2.	Lüneburg/Niedersachsen,
 3.	Uchtspringe/Sachsen-Anhalt,
 4.	Ueckermünde/Mecklenburg-Vorpommern und
@@ -123,7 +124,7 @@ Artikel Gangelt (Bearb. H. Seipolt). In: Ulrike Puvogel/Martin Stankowski: *Gede
 [^16]: Vgl. 8 Kls/48 des Schwurgerichtes Düsseldorf vom 24.11.1948 (Euthanasie in der Rheinprovinz). Der Kölnischen Gesellschaft für Christlich-Jüdische Zusammenarbeit e.V. danke ich für die Überlassung dieses Dokuments aus dem genannten Gerichtsverfahren.
 [^17]: Regine Fischer/Edmund Middendorf/Erich Kilian (Red.): 1881 – 1991 St. Antonius-Krankenhaus Waldbreitbach. Festschrift zum 100-jährigen Bestehen. Cochem/Mosel o. J. (1991), S. 27.
 [^18]: Vgl. Bundesarchiv Koblenz, R 96 I /7, "Planung und Belegung von Heil- und Pflegeanstalten 1942 – 1944".
-[^19]: Vgl. Alois Marksteiner/Rainer Danziger: Gugging. Versuch einer Psychiatriereform. 100 Jahre Niederösterreichisches Landeskrankenhaus für Psychiatrie und Neurologie Klosterneuburg. Wien 1985, Kap. Gugging in den Jahren 1938 bis 1945, S. 251-255, S. S. 252.
+[^19]: Vgl. Alois Marksteiner/Rainer Danziger: Gugging. Versuch einer Psychiatriereform. 100 Jahre Niederösterreichisches Landeskrankenhaus für Psychiatrie und Neurologie Klosterneuburg. Wien 1985, Kap.: Gugging in den Jahren 1938 bis 1945, S. 251-255, S. S. 252.
 [^20]: Aussage des ehemaligen Anstaltsarztes Dr. Josef Schicker vom 4. Januar 1946, VG 8a Vr 455/46. Staatsanwaltshaft beim Landgericht Linz (Euthanasie in den österreichischen Anstalten Mauer-Öhling und Klosterneuburg-Gugging). Vgl. Ernst Klee: "Euthanasie" im Dritten Reich. Die "Vernichtung lebensunwerten Lebens". Frankfurt/Main 2010 (3. Auflage), S. 397.
 [^21]: Archiv des Niederösterreichischen Landesnervenklinik für Psychiatrie und Neurologie Klosterneuburg. An dieser Stelle sei der ärztlichen Klinikleitung für die wochenlange Auswertung und Korrespondenz gedankt.
 [^22]: Vgl. Harry Seipolt: Zwangssterilisation und NS-"Euthanasie" in der Region Aachen. Aachen 1995, S. 102ff.
