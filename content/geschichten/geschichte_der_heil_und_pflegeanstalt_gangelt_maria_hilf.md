@@ -13,6 +13,7 @@ Am Rathaus der Gemeinde Gangelt wurde am 9. November 1991 eine Gedenktafel zur E
 Die Gesellschaft für Christlich-Jüdische Zusammenarbeit Aachen e.V. beauftragte den Autor, die Verfolgung von Psychiatrie-Patienten und die Verstrickung kleiner und großer Heil- und Pflegeanstalten in die Verbrechen der NS-Zwangssterilisation und der NS-"Euthanasie" im ehemaligen Regierungsbezirk Aachen zu beforschen.
 Ein Schwerpunkt war auch die Konfrontation der Heil- und Pflegeanstalt Gangelt mit der NS-"Ausmerz"-Politik.
 Als Grundlage dienten dem Autor u.a. bisher unbekannte Archivunterlagen, Gerichtsprotokolle und Patientenakten aus dem In- und Ausland.
+
 Ab 1935 entwickelte sich mit dem staatlichen Gesundheitsamt des Kreises Geilenkirchen-Heinsberg eine institutionelle Zusammenarbeit mit der Anstalt Gangelt als auch mit dem Erbgesundheitsgericht Aachen, das zur Vereinfachung des Zwangssterilisationsverfahrens im Sinne der NS-"Rassenhygiene" nachweislich zwischen September 1935 bis August 1942 routinemäßig in der Anstalt tagte[^1].
 
 Die Patienten der Anstalt Gangelt sonderte man nach dem "Gesetz zur Verhütung erbkranken Nachwuchses" (GzVN) vom 14. Juli 1933 gewaltsam aus und wurden in der Regel im Krankenhaus Heinsberg zwangsweise sterilisiert[^2].
@@ -83,7 +84,7 @@ Es ist nicht bekannt, ob bzw. wie viele Patientinnen der Gangelter Anstalt unmit
 
 Kurz nach dem Krieg war in der Heil- und Pflegeanstalt Gangelt ebenso wie andernorts die Zeit der Weißwäscher gewesen.
 Ungesühnt blieben die menschenverachtenden Untaten der dortigen Ärzte.
-Die verantwortlichen Mediziner kamen mit attestierten Entlastungszeugnissen von Gangelter Ordensfrauen wie sogar in einem Fall von der Generalvikarin des Mutterhauses der "Armen Dienstmägde Jesu Christi" (Dernbach/Westerwald) ohne große Probleme aus dem Entnazifierungsverfahren heraus,[^24] haben nahtlos wieder Karriere gemacht, Berufsprestige erlangt mit hohen Einkommen bis ins Pensionsalter.
+Die verantwortlichen Mediziner kamen mit attestierten Entlastungszeugnissen von Gangelter Ordensfrauen wie sogar in einem Fall von der Generalvikarin des Mutterhauses der "Armen Dienstmägde Jesu Christi" (Dernbach/Westerwald) ohne große Probleme aus dem Entnazifizierungsverfahren heraus,[^24] haben nahtlos wieder Karriere gemacht, Berufsprestige erlangt mit hohen Einkommen bis ins Pensionsalter.
 
 Die geschuldete Erinnerung an die Vorgänge in der Anstalt Gangelt während des NS-Regimes, vor allem aber an die durch die Zwangssterilisation verstümmelten und/oder später im Zuge der "Euthanasie" ermordeten Frauen und Mädchen ist zu groß für Hass und Vergebung.
 Diese Verbrechen haben einen Ort und einen Namen.
@@ -104,7 +105,7 @@ Harry Seipolt: *" … stammt aus asozialer und erbkranker Sippe"*. Zwangssterili
 
 Harry Seipolt: Zwangssterilisation und NS-"Euthanasie" in der Region Aachen. Alano Herodot, Aachen 1995.
 
-Artikel Gangelt (Bearb. H. Seipolt). In: Ulrike Puvogel/Martin Stankowski: *Gedenkstätten für die Opfer des Nationalsozialismus. Eine Dokumentation.* Schriftenreihe der Bundeszentrale für Politische Bildung, Band I: 2. Auflage. Bundeszentrale für Politische Bildung, Bonn 1995, S. 549f.
+Artikel *Gangelt* (Bearb. H. Seipolt). In: Ulrike Puvogel/Martin Stankowski: *Gedenkstätten für die Opfer des Nationalsozialismus. Eine Dokumentation.* Schriftenreihe der Bundeszentrale für Politische Bildung, Band I: 2. Auflage. Bundeszentrale für Politische Bildung, Bonn 1995, S. 549f.
 
 [^1]: Vgl. Hauptstaatsarchiv Düsseldorf (HStAD), Zweigstelle Schloss Kalkum, Generalakten der Abt. 9 vom Amtsgericht Aachen (Erbgesundheitssachen).
 [^2]: HStAD, Bestand Reg. Aachen Nr. 16486, Bl. 253.
