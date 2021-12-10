@@ -22,7 +22,7 @@ Er fungierte zudem jahrelang als ordentlicher Gutachter an Erbgesundheitsgericht
 Dokumentiert ist, dass zwischen 1934 bis 1944 ebenso fast alle damaligen Gangelter Anstaltsärzte sich als profunde Kenner und Praktiker der NS-Rassenhygiene am Erbgesundheit Aachen bzw. Erbgesundheitsobergericht Köln zur Durchsetzung des GzVN betätigten und letztlich über "Erbwert" und "Erbunwert" von verdächtigen Angeklagten – Akteneinsicht wurde nicht gewährt – rücksichtslos entschieden.[^5]
 
 Diese Ärzte waren nicht nur in die grausamen NS-Verbrechen der Zwangssterilisation, sondern später auch in die "Euthanasie"-Aktion verstrickt.
-Aus staatsanwaltlichen Ermittlungsakten vom Schwurgericht Düsseldorf[^6] owie aus über 20 Archiven der Bundesrepublik, der ehemaligen DDR, aus Österreich, Polen und Tschechien ergibt sich folgende Schreckensbilanz:[^7]
+Aus staatsanwaltlichen Ermittlungsakten vom Schwurgericht Düsseldorf[^6] sowie aus über 20 Archiven der Bundesrepublik, der ehemaligen DDR, aus Österreich, Polen und Tschechien ergibt sich folgende Schreckensbilanz:[^7]
 
 Zwischen dem 23. Oktober 1937 und 26. August 1944 wurden nachweislich 258 Patientinnen aus "planwirtschaftlichen" bzw. "zwingenden kriegswichtigen Gründen" in gerichtsbekannte Anstalten transportiert.
 Unter diesen Gangelter Patientinnen befanden sich insgesamt 26 minderjährige Mädchen, die zwischen dem 2. Oktober 1941 und dem 29. Mai 1943[^8] in die "Kinderfachabteilung" Waldniel gebracht worden waren, unter ihnen auch die gerade erst 6-jährige Gertrud M.[^9] aus Geilenkirchen.
