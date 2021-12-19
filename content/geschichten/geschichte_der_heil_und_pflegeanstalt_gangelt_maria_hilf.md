@@ -42,7 +42,7 @@ Sechs Monate später, am 7. Mai 1943, wurden "aus kriegswichtigen Gründen" 120 
 Magdalena L. überlebte diese Mordaktion wie durch ein Wunder.
 Ihre Weiterverlegung erfolgte mit anderen Gangelter Frauen nach Österreich.
 
-Im Herbst 1942 inspizierte eine fünfköpfige Planungskommission die Anstalt Gangelt.
+Im Herbst 1942 inspizierte eine fünfköpfige "T4"-Planungskommission des Reichsinnenministeriums die Anstalt Gangelt.
 Neben der Anfertigung von Fotos des Anstaltsgebäudes wurde gleichfalls dessen Lageplan wie die exakte wirtschaftliche Kraft für die Rechnungsjahre 1937 bis 1941 in Gangelt ermittelt.
 Solche "Erhebungen", die im ganzen Deutschen Reich durchgeführt wurden, dienten wenig später als Basis weiterer Vernichtungspläne für die NS-"Euthanasie"-Planer.
 Bei jedem dieser Anstaltsbesuche der Planungskommissare wurden offen praktische "Euthanasie"-Vorschläge und Beurteilungen diskutiert.[^18]
@@ -120,7 +120,7 @@ Artikel *Gangelt* (Bearb. H. Seipolt). In: Ulrike Puvogel/Martin Stankowski: *Ge
 [^11]: Landschaftsverband Rheinland/Portal Rheinische Geschichte: "Euthanasie" und Zwangssterilisierungen im Rheinland (1933–1945). Abgerufen am 5. November 2021.
 [^12]: Vgl. 8 Kls/48 des Schwurgerichtes Düsseldorf vom 24. November 1948 (Euthanasie in der Rheinprovinz). In: Justiz und NS-Verbrechen. Sammlung deutscher Strafurteile wegen nationalsozialistischer Tötungsverbrechen 1945 – 1966, a.a.O., Band III, S. 484.
 [^13]: Vgl. 8 Kls/48 des Schwurgerichtes Düsseldorf vom 24.11.1948 (Euthanasie in der Rheinprovinz).
-[^14]: Vgl. Archiv der Niederösterreichischen Landesnervenklinik für Psychiatrie und Neurologie Klosterneuburg. Patientenakte Magdalena L.
+[^14]: Archiv der Niederösterreichischen Landesnervenklinik für Psychiatrie und Neurologie Klosterneuburg. Patientenakte Magdalena L.
 [^15]: Zwischenanstalten waren Anstalten, in die Patienten, die zur Vernichtung in einer Gasmordanstalt der "Aktion T 4" vorgesehen waren, aus ihren ursprünglichen Anstalten in mehr oder weniger größeren Transporten verlegt und dort eine Zeitlang aufgenommen wurden, um dann nach und nach in die zugeordnete Vernichtungsanstalt der "T 4" zur Vergasung gebracht zu werden. Die Zwischenanstalten dienten gewissermaßen als Puffer.
 [^16]: Vgl. 8 Kls/48 des Schwurgerichtes Düsseldorf vom 24.11.1948 (Euthanasie in der Rheinprovinz). Der Kölnischen Gesellschaft für Christlich-Jüdische Zusammenarbeit e.V. danke ich für die Überlassung dieses Dokuments aus dem genannten Gerichtsverfahren.
 [^17]: Regine Fischer/Edmund Middendorf/Erich Kilian (Red.): 1881 – 1991 St. Antonius-Krankenhaus Waldbreitbach. Festschrift zum 100-jährigen Bestehen. Cochem/Mosel o. J. (1991), S. 27.
