@@ -52,7 +52,7 @@ Gelny hatte eine besonders perfide und äußerst grausame Methode der Patientent
 Er benutzte Elektrostrom-Schocks, wie sie für Hinrichtungen mit dem elektrischen Stuhl üblich sind.
 Gelny legte selbstklebende Schläfenelektroden den Patienten an.
 Nachdem die Patienten durch den Stromstoß bewusstlos gemacht wurden, veranlasste Gelny, dass Pfleger die Hände und Füße der Patienten mit vier weiteren Elektroden versahen.
-Gelny selbst versetzte daraufhin hin per Knopfdruck den Elektrostrom in den Körper des Kranken, und zwar solange, bis der Tod eingetreten war.
+Gelny selbst versetzte daraufhin per Knopfdruck den Elektrostrom in den Körper des Kranken, und zwar solange, bis der Tod eingetreten war.
 Es war ein besonders qualvolles und schmerzhaftes Sterben, da meistens erst nach mehreren Minuten die stationäre Exekution das Leben der Patienten beendete.[^20]
 Mindestens 20 ehemalige Patientinnen der Anstalt Gangelt ermordete Gelny vermutlich auf diese Art und Weise[^21].
 Magdalena wurde nur 17 Jahre und 7 Monate alt, sie "starb" am 6. Dezember 1943 angeblich an "Lappenlungenentzündung" um 3 Uhr morgens.[^22]
