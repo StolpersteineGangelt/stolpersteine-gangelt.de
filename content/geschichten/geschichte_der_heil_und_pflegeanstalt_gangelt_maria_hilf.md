@@ -4,6 +4,8 @@ date: 2021-11-10T12:45:00+01:00
 Categories: ["Geschichten"]
 ---
 
+Dieser Text erscheint mit freundlicher Genehmigung des Autors Harry Seipolt.
+
 Am Rathaus der Gemeinde Gangelt wurde am 9. November 1991 eine Gedenktafel zur Erinnerung an die Opfer von Holocaust und "Euthanasie" in der Zeit der NS-Herrschaft in Gangelt enthüllt:
 
 > _Wir gedenken der jüdischen Mitbürger und der Behinderten und Kranken,_  
