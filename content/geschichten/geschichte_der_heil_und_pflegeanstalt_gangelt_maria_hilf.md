@@ -2,6 +2,7 @@
 title: "Geschichte der Heil- und Pflegeanstalt Gangelt 'Maria Hilf' - Vom NS-Zwangssterilisationsgesetz zu den Krankenmorden im Rahmen des 'Euthanasie'-Programms 1933 bis 1945 (eine Zusammenfassung)"
 date: 2021-11-10T12:45:00+01:00
 Categories: ["Geschichten"]
+draft: true
 ---
 
 _Dieser Text erscheint mit freundlicher Genehmigung des Autors Harry Seipolt._
